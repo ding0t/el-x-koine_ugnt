@@ -6,8 +6,33 @@ scholars have undertaken to collate and compare the existing Greek manuscripts i
 determine the reading of the autographs. These GNTs are usually referred to as critical texts,
 since they are formed using the process of textual criticism drawing from many witnesses.
 Many fine Greek New Testaments exist, but unfortunately are subject to either copyright or
-licensing restrictions. None are presently available as CC0 or CC BY. For this reason, we are
-forming our own text.
+licensing restrictions. None are presently available as CC0, CC BY or CC BY-SA. For this reason, 
+there is a need for a new text.
+
+
+The objectives of this project are to provide a Greek New Testament that:
+
+  - Is **free of copyright and licensing restrictions** (CC BY-SA), permitting the entire global Church to use and build on it without hindrance.
+  - Is **based on existing work** of excellent pedigree and academic repute.
+  - Is **morphologically parsed** and **lexically tagged**.
+
+
+## Description
+
+The text has been prepared by Alan Bunning. For manuscript transcriptions and a full explanation of the project, see www.greekcntr.org.
+
+UGNT will be morphologically tagged.
+
+UGNT will be lexically tagged both to Strong's and the [UGL][ugl].
+
+
+## Related projects
+
+**Unlocked Greek Lexicon** - https://github.com/unfoldingWord/Unlocked-Greek-Lexicon
+
+
+[ugl]: https://github.com/unfoldingWord/Unlocked-Greek-Lexicon
+
 
 * The UGNT will consist of the following parts:
 
@@ -37,9 +62,7 @@ Agreement with our Statement of Faith: https://unfoldingword.org/faith/
 
 Agreement with Translation Guidelines: https://unfoldingword.org/guidelines/
 
-Agreement that your work will be released under a CC0 license (for the Greek
-text) ( https://creativecommons.org/about/cc0/ ) and CC BY (for the apparatus)
-( https://creativecommons.org/licenses/by-sa/4.0/ ). See
+Agreement that your work will be released under a CC BY-SA license. See
 https://unfoldingword.org/license/ .
 
 Must have at least one year (two semesters) of NT Greek
