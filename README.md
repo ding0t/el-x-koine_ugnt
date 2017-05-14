@@ -19,7 +19,7 @@ The objectives of this project are to provide a Greek New Testament that:
 
 ## Description
 
-The text has been prepared by Alan Bunning. For manuscript transcriptions and a full explanation of the project, see www.greekcntr.org.
+The text has been prepared by Alan Bunning. For manuscript transcriptions and a full explanation of the project, see: http://www.greekcntr.org.
 
 UGNT will be morphologically tagged.
 
