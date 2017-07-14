@@ -23,11 +23,11 @@ dublin_core:
     -
       identifier: 'ugnt'
       language: 'el-x-koine'
-      version: '1'
+      version: '0'
   subject: 'Greek New Testament'
   title: 'Unlocked Greek New Testament'
   type: 'bundle'
-  version: '1'
+  version: '0'
 
 checking:
   checking_entity:
