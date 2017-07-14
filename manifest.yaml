@@ -42,7 +42,7 @@ projects:
     versification: 'ufw'
     identifier: 'mat'
     sort: 40
-    path: './41-MAT.usfm'
+    path: './41-MAT.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -50,7 +50,7 @@ projects:
     versification: 'ufw'
     identifier: 'mrk'
     sort: 41
-    path: './42-MRK.usfm'
+    path: './42-MRK.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -58,7 +58,7 @@ projects:
     versification: 'ufw'
     identifier: 'luk'
     sort: 42
-    path: './43-LUK.usfm'
+    path: './43-LUK.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -66,7 +66,7 @@ projects:
     versification: 'ufw'
     identifier: 'jhn'
     sort: 43
-    path: './44-JHN.usfm'
+    path: './44-JHN.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -74,7 +74,7 @@ projects:
     versification: 'ufw'
     identifier: 'act'
     sort: 44
-    path: './45-ACT.usfm'
+    path: './45-ACT.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -82,7 +82,7 @@ projects:
     versification: 'ufw'
     identifier: 'rom'
     sort: 45
-    path: './46-ROM.usfm'
+    path: './46-ROM.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -90,7 +90,7 @@ projects:
     versification: 'ufw'
     identifier: '1co'
     sort: 46
-    path: './47-1CO.usfm'
+    path: './47-1CO.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -98,7 +98,7 @@ projects:
     versification: 'ufw'
     identifier: '2co'
     sort: 47
-    path: './48-2CO.usfm'
+    path: './48-2CO.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -106,7 +106,7 @@ projects:
     versification: 'ufw'
     identifier: 'gal'
     sort: 48
-    path: './49-GAL.usfm'
+    path: './49-GAL.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -114,7 +114,7 @@ projects:
     versification: 'ufw'
     identifier: 'eph'
     sort: 49
-    path: './50-EPH.usfm'
+    path: './50-EPH.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -122,7 +122,7 @@ projects:
     versification: 'ufw'
     identifier: 'php'
     sort: 50
-    path: './51-PHP.usfm'
+    path: './51-PHP.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -130,7 +130,7 @@ projects:
     versification: 'ufw'
     identifier: 'col'
     sort: 51
-    path: './52-COL.usfm'
+    path: './52-COL.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -138,7 +138,7 @@ projects:
     versification: 'ufw'
     identifier: '1th'
     sort: 52
-    path: './53-1TH.usfm'
+    path: './53-1TH.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -146,7 +146,7 @@ projects:
     versification: 'ufw'
     identifier: '2th'
     sort: 53
-    path: './54-2TH.usfm'
+    path: './54-2TH.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -154,7 +154,7 @@ projects:
     versification: 'ufw'
     identifier: '1ti'
     sort: 54
-    path: './55-1TI.usfm'
+    path: './55-1TI.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -162,7 +162,7 @@ projects:
     versification: 'ufw'
     identifier: '2ti'
     sort: 55
-    path: './56-2TI.usfm'
+    path: './56-2TI.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -170,7 +170,7 @@ projects:
     versification: 'ufw'
     identifier: 'tit'
     sort: 56
-    path: './57-TIT.usfm'
+    path: './57-TIT.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -178,7 +178,7 @@ projects:
     versification: 'ufw'
     identifier: 'phm'
     sort: 57
-    path: './58-PHM.usfm'
+    path: './58-PHM.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -186,7 +186,7 @@ projects:
     versification: 'ufw'
     identifier: 'heb'
     sort: 58
-    path: './59-HEB.usfm'
+    path: './59-HEB.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -194,7 +194,7 @@ projects:
     versification: 'ufw'
     identifier: 'jas'
     sort: 59
-    path: './60-JAS.usfm'
+    path: './60-JAS.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -202,7 +202,7 @@ projects:
     versification: 'ufw'
     identifier: '1pe'
     sort: 60
-    path: './61-1PE.usfm'
+    path: './61-1PE.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -210,7 +210,7 @@ projects:
     versification: 'ufw'
     identifier: '2pe'
     sort: 61
-    path: './62-2PE.usfm'
+    path: './62-2PE.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -218,7 +218,7 @@ projects:
     versification: 'ufw'
     identifier: '1jn'
     sort: 62
-    path: './63-1JN.usfm'
+    path: './63-1JN.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -226,7 +226,7 @@ projects:
     versification: 'ufw'
     identifier: '2jn'
     sort: 63
-    path: './64-2JN.usfm'
+    path: './64-2JN.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -234,7 +234,7 @@ projects:
     versification: 'ufw'
     identifier: '3jn'
     sort: 64
-    path: './65-3JN.usfm'
+    path: './65-3JN.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -242,7 +242,7 @@ projects:
     versification: 'ufw'
     identifier: 'jud'
     sort: 65
-    path: './66-JUD.usfm'
+    path: './66-JUD.csv'
     categories: [ 'bible-nt' ]
 
   -
@@ -250,5 +250,5 @@ projects:
     versification: 'ufw'
     identifier: 'rev'
     sort: 66
-    path: './67-REV.usfm'
+    path: './67-REV.csv'
     categories: [ 'bible-nt' ]
