@@ -5,7 +5,7 @@ dublin_core:
   contributor:
     - 'Alan Bunning'
   creator: 'Center for New Testament Restoration (CNTR)'
-  description: 'An unrestricted literal Bible'
+  description: 'An open-licensed, lexically tagged, morphologically parsed critical Greek New Testament with full apparatus. It enables the global Church to have access to the original texts of the New Testament.'
   format: 'text/csv'
   identifier: 'ugnt'
   issued: ''
