@@ -11,8 +11,8 @@ The UGNT text is based on the [Bunning Heuristic Prototype Greek New Testament (
 The UGNT text differs from the BHP in only a few respects, which are:
 
 * Versification - The versification system used by the UGNT matches that of our [ULB text](https://git.door43.org/Door43/en_ulb).  There are only two differnces here:
-  * BHP *does not* have 2 Corinthians 13:14 but the UGNT does.
-  * BHP *does not* have Acts 19:41 but UGNT does.
+  * BHP *does not* have 2 Corinthians 13:14 but the UGNT does (see [this commit](https://git.door43.org/Door43/UGNT/commit/2c8e8f8abb19f3b9e1ba7148c01e8c52adceffbc)).
+  * BHP *does not* have Acts 19:41 but UGNT does (see [this commit](https://git.door43.org/Door43/UGNT/commit/9bb309780ad21ca9d26e5155a716437f004c4577)).
 * Text - The text of the UGNT is identical to the BHP except that we include several verses that the BHP omits.  The full list of verses that we include are:
   * Matthew 16:3; 17:21; 18:11; 23:14
   * Mark 7:16; 9:44; 9:46; 11:26; 15:28; 16:9-20
