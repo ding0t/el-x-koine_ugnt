@@ -14,11 +14,11 @@ The UGNT text differs from the BHP in only a few respects, which are:
   * BHP *does not* have 2 Corinthians 13:14 but the UGNT does.
   * BHP *does not* have Acts 19:41 but UGNT does.
 * Text - The text of the UGNT is identical to the BHP except that we include several verses that the BHP omits.  The full list of verses that we include are:
-  * Matthew 16:3; MAT 17:21; MAT 18:11; MAT 23:14
-  * Mark 7:16; MRK 9:44; MRK 9:46; MRK 11:26; MRK 15:28; MRK 16:9-20
-  * Luke 17:36; LUK 22:43-44; LUK 23:17
-  * John 5:4; JHN 7:53; JHN 8:1-11
-  * Acts 8:37; ACT 15:34; ACT 24:7; ACT 28:29
+  * Matthew 16:3; 17:21; 18:11; 23:14
+  * Mark 7:16; 9:44; 9:46; 11:26; 15:28; 16:9-20
+  * Luke 17:36; 22:43-44; 23:17
+  * John 5:4; 7:53; 8:1-11
+  * Acts 8:37; 15:34; 24:7; 28:29
   * Romans 16:24
 * Metadata - The UGNT text includes various metadata to mark the text which create links to other content that our software uses.  For example, we add links to our [translationWords](https://git.door43.org/Door43/en_tw) articles where appropriate.
 
