@@ -14348,6 +14348,8 @@
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
 \w συστροφῆς|lemma="συστροφή" strong="G49630" x-morph="Gr,N,,,,,GFS,"\w*
 \w ταύτης|lemma="οὗτος" strong="G37780" x-morph="Gr,ED,,,,GFS,"\w*.
+
+\v 41
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ταῦτα|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANP,"\w*
 \w εἰπὼν|lemma="λέγω" strong="G30040" x-morph="Gr,V,PAA,NMS,"\w*,
