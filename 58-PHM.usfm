@@ -23,9 +23,9 @@
 \w ἀδελφὸς|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/brother" \w*;
 \w Φιλήμονι|lemma="Φιλήμων" strong="G53710" x-morph="Gr,N,,,,,DMS,"\w*,
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DMS,"\w*
-\w ἀγαπητῷ|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,AR,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/love" \w*
+\w ἀγαπητῷ|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,AR,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/beloved" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w συνεργῷ|lemma="συνεργός" strong="G49040" x-morph="Gr,NS,,,,DMS,"\w*
+\w συνεργῷ|lemma="συνεργός" strong="G49040" x-morph="Gr,NS,,,,DMS," x-tw="rc://*/tw/dict/bible/other/companion" \w*
 \w ἡμῶν|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1G,P,"\w*,
 
 \v 2
@@ -94,7 +94,7 @@
 \w Κύριον|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/lord" \w*
 \w Ἰησοῦν|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/jesus" \w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,," x-tw="rc://*/tw/dict/bible/kt/inchrist" \w*
+\w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w πάντας|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,AMP,"\w*
 \w τοὺς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMP,"\w*
 \w ἁγίους|lemma="ἅγιος" strong="G00400" x-morph="Gr,NS,,,,AMP," x-tw="rc://*/tw/dict/bible/kt/saint" \w*,
@@ -259,7 +259,7 @@
 \w τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*,
 \w ἐχωρίσθη|lemma="χωρίζω" strong="G55630" x-morph="Gr,V,IAP3,,S,"\w*
 \w πρὸς|lemma="πρός" strong="G43140" x-morph="Gr,P,,,,,A,,,"\w*
-\w ὥραν|lemma="ὥρα" strong="G56100" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/time" \w*,
+\w ὥραν|lemma="ὥρα" strong="G56100" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/hour" \w*,
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w αἰώνιον|lemma="αἰώνιος" strong="G01660" x-morph="Gr,NS,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/eternity" \w*
 \w αὐτὸν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3AMS,"\w*
@@ -273,7 +273,7 @@
 \w ὑπὲρ|lemma="ὑπέρ" strong="G52280" x-morph="Gr,P,,,,,A,,,"\w*
 \w δοῦλον|lemma="δοῦλος" strong="G14010" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/servant" \w*,
 \w ἀδελφὸν|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/brother" \w*
-\w ἀγαπητόν|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,AA,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/love" \w*,
+\w ἀγαπητόν|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,AA,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/beloved" \w*,
 \w μάλιστα|lemma="μάλιστα" strong="G31220" x-morph="Gr,D,,,,,,,,S"\w*
 \w ἐμοί|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1D,S,"\w*
 \w πόσῳ|lemma="πόσος" strong="G42140" x-morph="Gr,RT,,,,DNS,"\w*
@@ -403,7 +403,7 @@
 \w Δημᾶς|lemma="Δημᾶς" strong="G12140" x-morph="Gr,N,,,,,NMS,"\w*,
 \w Λουκᾶς|lemma="Λουκᾶς" strong="G30650" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/names/luke" \w*,
 \w οἱ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMP,"\w*
-\w συνεργοί|lemma="συνεργός" strong="G49040" x-morph="Gr,NS,,,,NMP,"\w*
+\w συνεργοί|lemma="συνεργός" strong="G49040" x-morph="Gr,NS,,,,NMP," x-tw="rc://*/tw/dict/bible/other/companion" \w*
 \w μου|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1G,S,"\w*.
 
 \v 25
