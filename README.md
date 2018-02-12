@@ -20,7 +20,7 @@ The UGNT text differs from the BHP in only a few respects, which are:
   * John *5:4*; 7:53; 8:1-11
   * Acts *8:37*; *15:34*; *24:7*; *28:29*
   * Romans *16:24*
-* Metadata - The UGNT text includes various metadata to mark the text which create links to other content that our software uses.  For example, we add links to our [translationWords](https://git.door43.org/Door43/en_tw) articles where appropriate.
+* Metadata - The UGNT text includes various metadata to mark the text which create links to other content that our software uses.  For example, we add links to our [translationWords](https://git.door43.org/Door43/en_tw) articles where appropriate (about 33,737 occurrences).
 
 ## Related projects
 
