@@ -443,7 +443,7 @@
 \v 23
 \w ἡμεῖς|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1N,P,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
-\w κηρύσσομεν|lemma="κηρύσσω" strong="G27840" x-morph="Gr,V,IPA1,,P," x-tw="rc://*/tw/dict/bible/other/preach" w*
+\w κηρύσσομεν|lemma="κηρύσσω" strong="G27840" x-morph="Gr,V,IPA1,,P," x-tw="rc://*/tw/dict/bible/other/preach" \w*
 \w Χριστὸν|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*
 \w ἐσταυρωμένον|lemma="σταυρόω" strong="G47170" x-morph="Gr,V,PEP,AMS," x-tw="rc://*/tw/dict/bible/kt/crucify" \w*,
 \w Ἰουδαίοις|lemma="Ἰουδαῖος" strong="G24530" x-morph="Gr,NS,,,,DMP," x-tw="rc://*/tw/dict/bible/kt/jew" \w*

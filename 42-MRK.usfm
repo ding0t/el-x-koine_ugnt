@@ -2288,7 +2288,7 @@
 \w Βασιλείας|lemma="βασιλεία" strong="G09320" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/kingdom" \w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
 \w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-;
+\k-e\*;
 \w ἐκείνοις|lemma="ἐκεῖνος" strong="G15650" x-morph="Gr,RD,,,,DMP,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w τοῖς|lemma="ὁ" strong="G35880" x-morph="Gr,RR,,,,DMP,"\w*
@@ -9910,7 +9910,7 @@
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὑμεῖς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2N,P,"\w*
 \w ἑαυτούς|lemma="ἑαυτοῦ" strong="G14380" x-morph="Gr,RE,,,2AMP,"\w*;
-\w παραδώσουσιν|lemma="παραδίδωμι" strong="G38600" x-morph="Gr,V,IFA3,,P,"="rc://*/tw/dict/bible/other/betray" \w*
+\w παραδώσουσιν|lemma="παραδίδωμι" strong="G38600" x-morph="Gr,V,IFA3,,P," x-tw="rc://*/tw/dict/bible/other/betray" \w*
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w συνέδρια|lemma="συνέδριον" strong="G48920" x-morph="Gr,N,,,,,ANP," x-tw="rc://*/tw/dict/bible/other/council" \w*

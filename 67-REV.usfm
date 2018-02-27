@@ -6318,7 +6318,7 @@
 \w ἔχοντα|lemma="ἔχω" strong="G21920" x-morph="Gr,V,PPA,AMS,"\w*
 \w εὐαγγέλιον|lemma="εὐαγγέλιον" strong="G20980" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/goodnews" \w*
 \w αἰώνιον|lemma="αἰώνιος" strong="G01660" x-morph="Gr,AA,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/eternity" \w*
-\w εὐαγγελίσαι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,NAA,,,,," x-tw="rc://*/tw/dict/bible/other/preach \w*
+\w εὐαγγελίσαι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,NAA,,,,," x-tw="rc://*/tw/dict/bible/other/preach" \w*
 \w ἐπὶ|lemma="ἐπί" strong="G19090" x-morph="Gr,P,,,,,A,,,"\w*
 \w τοὺς|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,AMP,"\w*
 \w καθημένους|lemma="κάθημαι" strong="G25210" x-morph="Gr,V,PPM,AMP,"\w*

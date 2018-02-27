@@ -1206,7 +1206,7 @@
 \w γένους|lemma="γένος" strong="G10850" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/other/peoplegroup" \w*
 \w Ἰσραήλ|lemma="Ἰσραήλ" strong="G24740" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/kt/israel" \w*
 \w φυλῆς|lemma="φυλή" strong="G54430" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/tribe" \w*
-\w Βενιαμείν|lemma="Βενιαμείν" strong="G09580" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/name/benjamin" \w*,
+\w Βενιαμείν|lemma="Βενιαμείν" strong="G09580" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/names/benjamin" \w*,
 \w Ἑβραῖος|lemma="Ἑβραῖος" strong="G14450" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/hebrew" \w*
 \w ἐξ|lemma="ἐκ" strong="G15370" x-morph="Gr,P,,,,,G,,,"\w*
 \w Ἑβραίων|lemma="Ἑβραῖος" strong="G14450" x-morph="Gr,N,,,,,GMP," x-tw="rc://*/tw/dict/bible/kt/hebrew" \w*,
