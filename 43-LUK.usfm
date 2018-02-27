@@ -5075,9 +5075,9 @@
 \w ἀδελφὸν|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/brother" \w*
 \w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMS,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w Ἰάκωβον|lemma="Ἰάκωβος" strong="G23850" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/name/jamessonofzebedee" \w*,
+\w Ἰάκωβον|lemma="Ἰάκωβος" strong="G23850" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/names/jamessonofzebedee" \w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w Ἰωάννην|lemma="Ἰωάννης" strong="G24910" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/name/johntheapostle" \w*,
+\w Ἰωάννην|lemma="Ἰωάννης" strong="G24910" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/names/johntheapostle" \w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w Φίλιππον|lemma="Φίλιππος" strong="G53760" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/names/philiptheapostle" \w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -17433,7 +17433,7 @@
 \w πλῆθος|lemma="πλῆθος" strong="G41280" x-morph="Gr,N,,,,,NNS,"\w*
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMP,"\w*
 \w μαθητῶν|lemma="μαθητής" strong="G31010" x-morph="Gr,N,,,,,GMP," x-tw="rc://*/tw/dict/bible/kt/disciple" \w*
-\w χαίροντες|lemma="χαίρω" strong="G54630" x-morph="Gr,V,PPA,NMP," x-tw="rc://*/tw/dict/bible/ohter/joy" \w*
+\w χαίροντες|lemma="χαίρω" strong="G54630" x-morph="Gr,V,PPA,NMP," x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w αἰνεῖν|lemma="αἰνέω" strong="G01340" x-morph="Gr,V,NPA,,,,," x-tw="rc://*/tw/dict/bible/other/praise" \w*
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \w Θεὸν|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
