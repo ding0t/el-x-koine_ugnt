@@ -9324,7 +9324,7 @@
 \w ἄνδρα|lemma="ἀνήρ" strong="G04350" x-morph="Gr,N,,,,,AMS,"\w*,
 \w τινὰ|lemma="τις" strong="G51000" x-morph="Gr,EQ,,,,AMS,"\w*
 \w μάγον|lemma="μάγος" strong="G30970" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/magic" \w*
-\w ψευδοπροφήτην|lemma="ψευδοπροφήτης" strong="G55780" x-morph="Gr,N,,,,,AMS, x-tw="rc://*/tw/dict/bible/other/falseprophet" \w*
+\w ψευδοπροφήτην|lemma="ψευδοπροφήτης" strong="G55780" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/falseprophet" \w*
 \w Ἰουδαῖον|lemma="Ἰουδαῖος" strong="G24530" x-morph="Gr,AA,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/jew" \w*,
 \w ᾧ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,DMS,"\w*
 \w ὄνομα|lemma="ὄνομα" strong="G36860" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/kt/name" \w*
@@ -9636,7 +9636,7 @@
 \w Θεὸς|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \w Σαοὺλ|lemma="Σαούλ" strong="G45690" x-morph="Gr,N,,,,,AMSI" x-tw="rc://*/tw/dict/bible/names/saul" \w*,
-\w υἱὸν|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/god" x-tw="rc://*/tw/dict/bible/kt/son" \w*
+\w υἱὸν|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/son" \w*
 \w Κείς|lemma="Κείς" strong="G27970" x-morph="Gr,N,,,,,GMSI"\w*,
 \w ἄνδρα|lemma="ἀνήρ" strong="G04350" x-morph="Gr,N,,,,,AMS,"\w*
 \w ἐκ|lemma="ἐκ" strong="G15370" x-morph="Gr,P,,,,,G,,,"\w*

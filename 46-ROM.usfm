@@ -602,7 +602,7 @@
 \w ψιθυριστάς|lemma="ψιθυριστής" strong="G55880" x-morph="Gr,N,,,,,AMP," x-tw="rc://*/tw/dict/bible/other/gossip" \w*,
 
 \v 30
-\w καταλάλους|lemma="κατάλαλος" strong="G26370" x-morph="Gr,NS,,,,AMP,"\w* x-tw="rc://*/tw/dict/bible/other/slander" ,
+\w καταλάλους|lemma="κατάλαλος" strong="G26370" x-morph="Gr,NS,,,,AMP," x-tw="rc://*/tw/dict/bible/other/slander" \w*,
 \w θεοστυγεῖς|lemma="θεοστυγής" strong="G23190" x-morph="Gr,NS,,,,AMP,"\w*,
 \w ὑβριστάς|lemma="ὑβριστής" strong="G51970" x-morph="Gr,N,,,,,AMP,"\w*,
 \w ὑπερηφάνους|lemma="ὑπερήφανος" strong="G52440" x-morph="Gr,NS,,,,AMP," x-tw="rc://*/tw/dict/bible/other/proud" \w*,

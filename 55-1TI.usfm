@@ -263,7 +263,7 @@
 \w ἄξιος|lemma="ἄξιος" strong="G05140" x-morph="Gr,NS,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/worthy" \w*:
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/jesus"
-"\w Χριστὸς|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,NMS,"\ x-tw="rc://*/tw/dict/bible/kt/christ" w*
+"\w Χριστὸς|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*
 \w Ἰησοῦς|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,NMS,"\w*
 \k-e\*
 \w ἦλθεν|lemma="ἔρχομαι" strong="G20640" x-morph="Gr,V,IAA3,,S,"\w*

@@ -1775,8 +1775,8 @@
 \v 14
 \w ἀσπάζεται|lemma="ἀσπάζομαι" strong="G07820" x-morph="Gr,V,IPM3,,S,"\w*
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*
-\k-s | x-tw="rc://*/tw/dict/bible/names/luke" \w*
-\w Λουκᾶς|lemma="Λουκᾶς" strong="G30650" x-morph="Gr,N,,,,,NMS,",
+\k-s | x-tw="rc://*/tw/dict/bible/names/luke"
+\w Λουκᾶς|lemma="Λουκᾶς" strong="G30650" x-morph="Gr,N,,,,,NMS,"\w*,
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
 \w ἰατρὸς|lemma="ἰατρός" strong="G23950" x-morph="Gr,N,,,,,NMS,"\w*
 \k-e\*

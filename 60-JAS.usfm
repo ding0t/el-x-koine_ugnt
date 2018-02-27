@@ -1596,7 +1596,7 @@
 \w καυχᾶσθε|lemma="καυχάομαι" strong="G27440" x-morph="Gr,V,IPM2,,P," x-tw="rc://*/tw/dict/bible/kt/boast" \w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w ταῖς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DFP,"\w*
-\w ἀλαζονίαις|lemma="ἀλαζονία" strong="G02120" x-morph="Gr,N,,,,,DFP,"" x-tw="rc://*/tw/dict/bible/kt/arrogant" \w*
+\w ἀλαζονίαις|lemma="ἀλαζονία" strong="G02120" x-morph="Gr,N,,,,,DFP," x-tw="rc://*/tw/dict/bible/kt/arrogant" \w*
 \w ὑμῶν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,P,"\w*.
 \w πᾶσα|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,NFS,"\w*
 \w καύχησις|lemma="καύχησις" strong="G27460" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/boast" \w*
