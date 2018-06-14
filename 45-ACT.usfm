@@ -1546,15 +1546,15 @@
 \w σῳζομένους|lemma="σῴζω" strong="G49820" x-morph="Gr,V,PPP,AMP," x-tw="rc://*/tw/dict/bible/kt/save" \w*
 \w καθ’|lemma="κατά" strong="G25960" x-morph="Gr,P,,,,,A,,,"\w*
 \w ἡμέραν|lemma="ἡμέρα" strong="G22500" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/biblicaltimeday" \w*.
+\w ἐπὶ|lemma="ἐπί" strong="G19090" x-morph="Gr,P,,,,,A,,,"\w*
+\w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
+\w αὐτό|lemma="αὐτός" strong="G08460" x-morph="Gr,RD,,,,ANS,"\w*,
 
 \c 3
 \p
 
 \v 1
 \p
-\w ἐπὶ|lemma="ἐπί" strong="G19090" x-morph="Gr,P,,,,,A,,,"\w*
-\w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
-\w αὐτό|lemma="αὐτός" strong="G08460" x-morph="Gr,RD,,,,ANS,"\w*,
 \w Πέτρος|lemma="πέτρος" strong="G40740" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/names/peter" \w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
