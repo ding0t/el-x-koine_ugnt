@@ -15717,7 +15717,12 @@
 \w εἰσελθεῖν|lemma="εἰσέρχομαι" strong="G15250" x-morph="Gr,V,NAA,,,,,"\w*.
 
 \v 14
-\w |lemma="" strong="G00000" x-morph="Gr,"\w*
+\f + \fqa
+\w τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*
+\w λήμψεσθε|lemma="λαμβάνω" strong="G29830" x-morph="Gr,V,MIF2,,P,"\w*
+\w περισσότερον|lemma="περισσοτέρως" strong="G40560" x-morph="Gr,D,,,,,,,,,"\w*
+\w κρίμα|lemma="κρίμα" strong="G29170" x-morph="Gr,N,,,,,ANS,"\w*.
+\f*
 
 \v 15
 \w οὐαὶ|lemma="οὐαί" strong="G37590" x-morph="Gr,IE,,,,,,,," x-tw="rc://*/tw/dict/bible/kt/woe" \w*
