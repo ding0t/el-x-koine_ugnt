@@ -3330,14 +3330,12 @@
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DMS,"\w*
 \w Θεῷ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*;
 \w οὔτε|lemma="οὔτε" strong="G37770" x-morph="Gr,DO,,,,,,,,"\w*
-\w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἐὰν|lemma="ἐάν" strong="G14370" x-morph="Gr,CS,,,,,,,,"\w*
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w φάγωμεν|lemma="ἐσθίω" strong="G20680" x-morph="Gr,V,SAA1,,P,"\w*,
 \w ὑστερούμεθα|lemma="ὑστερέω" strong="G53020" x-morph="Gr,V,IPP1,,P,"\w*;
 \w οὔτε|lemma="οὔτε" strong="G37770" x-morph="Gr,CO,,,,,,,,"\w*
 \w ἐὰν|lemma="ἐάν" strong="G14370" x-morph="Gr,CS,,,,,,,,"\w*
-\w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w φάγωμεν|lemma="ἐσθίω" strong="G20680" x-morph="Gr,V,SAA1,,P,"\w*,
 \w περισσεύομεν|lemma="περισσεύω" strong="G40520" x-morph="Gr,V,IPA1,,P," x-tw="rc://*/tw/dict/bible/other/multiply" \w*.
 
