@@ -10,7 +10,6 @@
 \p
 
 \v 1
-\p
 \k-s | x-tw="rc://*/tw/dict/bible/names/peter"
 \w Σίμων|lemma="Σίμων" strong="G46130" x-morph="Gr,N,,,,,NMS,"\w*
 \w Πέτρος|lemma="πέτρος" strong="G40740" x-morph="Gr,N,,,,,NMS,"\w*
@@ -463,7 +462,6 @@
 \p
 
 \v 1
-\p
 \w ἐγένοντο|lemma="γίνομαι" strong="G10960" x-morph="Gr,V,IAM3,,P,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
@@ -890,7 +888,6 @@
 \p
 
 \v 1
-\p
 \w ταύτην|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,AFS,"\w*
 \w ἤδη|lemma="ἤδη" strong="G22350" x-morph="Gr,D,,,,,,,,,"\w*,
 \w ἀγαπητοί|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,NS,,,,VMP," x-tw="rc://*/tw/dict/bible/kt/beloved" \w*,
