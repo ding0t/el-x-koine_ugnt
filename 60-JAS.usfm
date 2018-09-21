@@ -1695,8 +1695,10 @@
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w τὰ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANP,"\w*
 \w ὦτα|lemma="οὖς" strong="G37750" x-morph="Gr,N,,,,,ANP,"\w*
-\w Κυρίου|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/lord" \w*
+\k-s | x-tw="rc://*/tw/dict/bible/kt/yahwehofhosts"
+\w Κυρίου|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,GMS,"\w*
 \w Σαβαὼθ|lemma="Σαβαώθ" strong="G45190" x-morph="Gr,N,,,,,GMPI"\w*
+\k-e\*
 \w εἰσελήλυθαν|lemma="εἰσέρχομαι" strong="G15250" x-morph="Gr,V,IEA3,,P,"\w*.
 
 \v 5

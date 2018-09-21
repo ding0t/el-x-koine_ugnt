@@ -4866,8 +4866,10 @@
 \w Ἠσαΐας|lemma="Ἠσαΐας" strong="G22680" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/names/isaiah" \w*,
 “\w εἰ|lemma="εἰ" strong="G14870" x-morph="Gr,PI,,,,,,,,"\w*
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
-\w Κύριος|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/lord" \w*
+\k-s | x-tw="rc://*/tw/dict/bible/kt/yahwehofhosts"
+\w Κύριος|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,NMS,"\w*
 \w Σαβαὼθ|lemma="Σαβαώθ" strong="G45190" x-morph="Gr,N,,,,,GMPI"\w*
+\k-e\*
 \w ἐνκατέλιπεν|lemma="ἐνκαταλείπω" strong="G14590" x-morph="Gr,V,IAA3,,S,"\w*
 \w ἡμῖν|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1D,P,"\w*
 \w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*,
