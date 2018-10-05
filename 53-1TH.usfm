@@ -1389,9 +1389,9 @@
 \v 3
 \w ὅταν|lemma="ὅταν" strong="G37520" x-morph="Gr,CS,,,,,,,,"\w*
 \w λέγωσιν|lemma="λέγω" strong="G30040" x-morph="Gr,V,SPA3,,P,"\w*,
-“\w εἰρήνη|lemma="εἰρήνη" strong="G15150" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/peace" \w*
+"\w εἰρήνη|lemma="εἰρήνη" strong="G15150" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/peace" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w ἀσφάλεια|lemma="ἀσφάλεια" strong="G08030" x-morph="Gr,N,,,,,NFS,"\w*”,
+\w ἀσφάλεια|lemma="ἀσφάλεια" strong="G08030" x-morph="Gr,N,,,,,NFS,"\w*",
 \w τότε|lemma="τότε" strong="G51190" x-morph="Gr,D,,,,,,,,,"\w*
 \w αἰφνίδιος|lemma="αἰφνίδιος" strong="G01600" x-morph="Gr,NS,,,,NMS,"\w*
 \w αὐτοῖς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMP,"\w*

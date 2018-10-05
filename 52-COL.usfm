@@ -1036,12 +1036,12 @@
 \w δογματίζεσθε|lemma="δογματίζω" strong="G13790" x-morph="Gr,V,IPP2,,P,"\w*:
 
 \v 21
-“\w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
+"\w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἅψῃ|lemma="ἅπτω" strong="G06810" x-morph="Gr,V,SAM2,,S,"\w*!
 \w μηδὲ|lemma="μηδέ" strong="G33660" x-morph="Gr,CC,,,,,,,,"\w*
 \w γεύσῃ|lemma="γεύομαι" strong="G10890" x-morph="Gr,V,SAM2,,S,"\w*!
 \w μηδὲ|lemma="μηδέ" strong="G33660" x-morph="Gr,CC,,,,,,,,"\w*
-\w θίγῃς|lemma="θιγγάνω" strong="G23450" x-morph="Gr,V,SAA2,,S,"\w*!”
+\w θίγῃς|lemma="θιγγάνω" strong="G23450" x-morph="Gr,V,SAA2,,S,"\w*!"
 
 \v 22
 \w ἅ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,NNP,"\w*
@@ -1826,7 +1826,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w εἴπατε|lemma="λέγω" strong="G30040" x-morph="Gr,V,MAA2,,P,"\w*
 \w Ἀρχίππῳ|lemma="Ἄρχιππος" strong="G07510" x-morph="Gr,N,,,,,DMS,"\w*,
-“\w βλέπε|lemma="βλέπω" strong="G09910" x-morph="Gr,V,MPA2,,S,"\w*
+"\w βλέπε|lemma="βλέπω" strong="G09910" x-morph="Gr,V,MPA2,,S,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w διακονίαν|lemma="διακονία" strong="G12480" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/minister" \w*
 \w ἣν|lemma="ὅς" strong="G37390" x-morph="Gr,RD,,,,AFS,"\w*
@@ -1837,7 +1837,7 @@
 \k-e\*,
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w αὐτὴν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,,AFS,"\w*
-\w πληροῖς|lemma="πληρόω" strong="G41370" x-morph="Gr,V,SPA2,,S," x-tw="rc://*/tw/dict/bible/kt/fulfill" \w*.”
+\w πληροῖς|lemma="πληρόω" strong="G41370" x-morph="Gr,V,SPA2,,S," x-tw="rc://*/tw/dict/bible/kt/fulfill" \w*."
 
 \v 18
 \p
