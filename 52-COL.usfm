@@ -884,7 +884,7 @@
 \w παραπτώμασιν|lemma="παράπτωμα" strong="G39000" x-morph="Gr,N,,,,,DNP," x-tw="rc://*/tw/dict/bible/kt/trespass" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w τῇ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DFS,"\w*
-\w ἀκροβυστίᾳ|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/curcumcise" \w*
+\w ἀκροβυστίᾳ|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/circumcise" \w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
 \w σαρκὸς|lemma="σάρξ" strong="G45610" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/flesh" \w*
 \w ὑμῶν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,P,"\w*,
@@ -1244,7 +1244,7 @@
 \w Ἰουδαῖος|lemma="Ἰουδαῖος" strong="G24530" x-morph="Gr,NS,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/jew" \w*,
 \w περιτομὴ|lemma="περιτομή" strong="G40610" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/circumcise" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w ἀκροβυστία|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/curcumcise" \w*,
+\w ἀκροβυστία|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/circumcise" \w*,
 \w βάρβαρος|lemma="βάρβαρος" strong="G09150" x-morph="Gr,NS,,,,NMS,"\w*,
 \w Σκύθης|lemma="Σκύθης" strong="G46580" x-morph="Gr,N,,,,,NMS,"\w*,
 \w δοῦλος|lemma="δοῦλος" strong="G14010" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/other/servant" \w*,

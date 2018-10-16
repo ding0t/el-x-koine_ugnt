@@ -281,7 +281,7 @@
 \p
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
-\w καύχησις|lemma="καύχησις" strong="G27460" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/boast" \w*
+\w καύχησις|lemma="καύχησις" strong="G27460" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/boast" \w*
 \w ἡμῶν|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1G,P,"\w*
 \w αὕτη|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,NFS,"\w*
 \w ἐστίν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA3,,S,"\w*:
@@ -2375,7 +2375,7 @@
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*,
 \w πολλή|lemma="πολλός" strong="G41830" x-morph="Gr,RI,,,,NFS,"\w*
 \w μοι|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1D,S,"\w*
-\w καύχησις|lemma="καύχησις" strong="G27460" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/boast" \w*
+\w καύχησις|lemma="καύχησις" strong="G27460" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/boast" \w*
 \w ὑπὲρ|lemma="ὑπέρ" strong="G52280" x-morph="Gr,P,,,,,G,,,"\w*
 \w ὑμῶν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,P,"\w*;
 \w πεπλήρωμαι|lemma="πληρόω" strong="G41370" x-morph="Gr,V,IEP1,,S,"\w*
@@ -2418,7 +2418,7 @@
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
 \w παρακαλῶν|lemma="παρακαλέω" strong="G38700" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/comfort" \w*
 \w τοὺς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMP,"\w*
-\w ταπεινοὺς|lemma="ταπεινός" strong="G50110" x-morph="Gr,NS,,,,AMP," x-tw="rc://*/tw/dict/bible/other/humble" \w*,
+\w ταπεινοὺς|lemma="ταπεινός" strong="G50110" x-morph="Gr,NS,,,,AMP," x-tw="rc://*/tw/dict/bible/kt/humble" \w*,
 \w παρεκάλεσεν|lemma="παρακαλέω" strong="G38700" x-morph="Gr,V,IAA3,,S," x-tw="rc://*/tw/dict/bible/other/courage" \w*
 \w ἡμᾶς|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1A,P,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
@@ -2455,7 +2455,7 @@
 \w ὀδυρμόν|lemma="ὀδυρμός" strong="G36020" x-morph="Gr,N,,,,,AMS,"\w*,
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \w ὑμῶν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,P,"\w*
-\w ζῆλον|lemma="ζῆλος" strong="G22050" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/zeal" \w*
+\w ζῆλον|lemma="ζῆλος" strong="G22050" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/zealous" \w*
 \w ὑπὲρ|lemma="ὑπέρ" strong="G52280" x-morph="Gr,P,,,,,G,,,"\w*
 \w ἐμοῦ|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1G,S,"\w*,
 \w ὥστε|lemma="ὥστε" strong="G56200" x-morph="Gr,CS,,,,,,,,"\w*
@@ -3186,7 +3186,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NNS,"\w*
 \w ὑμῶν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,P,"\w*
-\w ζῆλος|lemma="ζῆλος" strong="G22050" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/kt/zeal" \w*
+\w ζῆλος|lemma="ζῆλος" strong="G22050" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/kt/zealous" \w*
 \w ἠρέθισε|lemma="ἐρεθίζω" strong="G20420" x-morph="Gr,V,IAA3,,S,"\w*
 \w τοὺς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMP,"\w*
 \w πλείονας|lemma="πλείων" strong="G41190" x-morph="Gr,AA,,,,AMPC"\w*.

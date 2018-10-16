@@ -199,7 +199,7 @@
 \w διαφέροντα|lemma="διαφέρω" strong="G13080" x-morph="Gr,V,PPA,ANP,"\w*,
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w ἦτε|lemma="εἰμί" strong="G15100" x-morph="Gr,V,SPA2,,P,"\w*
-\w εἰλικρινεῖς|lemma="εἰλικρινής" strong="G15060" x-morph="Gr,NS,,,,NMP," x-tw="rc://*/tw/dict/bible/kt/pure" \w*
+\w εἰλικρινεῖς|lemma="εἰλικρινής" strong="G15060" x-morph="Gr,NS,,,,NMP," x-tw="rc://*/tw/dict/bible/kt/purify" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἀπρόσκοποι|lemma="ἀπρόσκοπος" strong="G06770" x-morph="Gr,NS,,,,NMP," x-tw="rc://*/tw/dict/bible/kt/blameless" \w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
@@ -534,7 +534,7 @@
 \w ἑνὶ|lemma="εἷς" strong="G15200" x-morph="Gr,EN,,,,DNS,"\w*
 \w πνεύματι|lemma="πνεῦμα" strong="G41510" x-morph="Gr,N,,,,,DNS," x-tw="rc://*/tw/dict/bible/kt/spirit" \w*,
 \w μιᾷ|lemma="εἷς" strong="G15200" x-morph="Gr,EN,,,,DFS,"\w*
-\w ψυχῇ|lemma="ψυχή" strong="G55900" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/soul" \w*
+\w ψυχῇ|lemma="ψυχή" strong="G55900" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/soul" \w*
 \w συναθλοῦντες|lemma="συναθλέω" strong="G48660" x-morph="Gr,V,PPA,NMP,"\w*
 \w τῇ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DFS,"\w*
 \w πίστει|lemma="πίστις" strong="G41020" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/faith" \w*
@@ -1450,7 +1450,7 @@
 \v 19
 \w ὧν|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,GMP,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NNS,"\w*
-\w τέλος|lemma="τέλος" strong="G50560" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/other/destiny" \w*
+\w τέλος|lemma="τέλος" strong="G50560" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/kt/predestine" \w*
 \w ἀπώλεια|lemma="ἀπώλεια" strong="G06840" x-morph="Gr,N,,,,,NFS,"\w*,
 \w ὧν|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,GMP,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*

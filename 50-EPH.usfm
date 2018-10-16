@@ -706,7 +706,7 @@
 \w σαρκί|lemma="σάρξ" strong="G45610" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/flesh" \w*,
 \w οἱ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMP,"\w*
 \w λεγόμενοι|lemma="λέγω" strong="G30040" x-morph="Gr,V,PPP,NMP," x-tw="rc://*/tw/dict/bible/kt/call" \w*
-\w ἀκροβυστία|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/curcumcise" \w*
+\w ἀκροβυστία|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/circumcise" \w*
 \w ὑπὸ|lemma="ὑπό" strong="G52590" x-morph="Gr,P,,,,,G,,,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
 \w λεγομένης|lemma="λέγω" strong="G30040" x-morph="Gr,V,PPP,GFS," x-tw="rc://*/tw/dict/bible/kt/call" \w*
@@ -2469,7 +2469,7 @@
 \w ἐκτρέφετε|lemma="ἐκτρέφω" strong="G16250" x-morph="Gr,V,MPA2,,P,"\w*
 \w αὐτὰ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3ANP,"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
-\w παιδείᾳ|lemma="παιδεία" strong="G38090" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/discipline" \w*
+\w παιδείᾳ|lemma="παιδεία" strong="G38090" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/discipline" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w νουθεσίᾳ|lemma="νουθεσία" strong="G35590" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/admonish" \w*
 \w Κυρίου|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/lord" \w*.

@@ -653,7 +653,7 @@
 \w αὐτῷ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMS,"\w*
 \w ἀντέστην|lemma="ἀνθίστημι" strong="G04360" x-morph="Gr,V,IAA1,,S,"\w*,
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
-\w κατεγνωσμένος|lemma="καταγινώσκω" strong="G26070" x-morph="Gr,V,PEP,NMS," x-tw="rc://*/tw/dict/bible/other/condemn" \w*
+\w κατεγνωσμένος|lemma="καταγινώσκω" strong="G26070" x-morph="Gr,V,PEP,NMS," x-tw="rc://*/tw/dict/bible/kt/condemn" \w*
 \w ἦν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IIA3,,S,"\w*.
 
 \v 12
@@ -1015,7 +1015,7 @@
 \w εὐλογοῦνται|lemma="εὐλογέω" strong="G21270" x-morph="Gr,V,IPP3,,P," x-tw="rc://*/tw/dict/bible/kt/bless" \w*
 \w σὺν|lemma="σύν" strong="G48620" x-morph="Gr,P,,,,,D,,,"\w*
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DMS,"\w*
-\w πιστῷ|lemma="πιστός" strong="G41030" x-morph="Gr,AA,,,,DMS," x-tw="rc://*/tw/dict/bible/other/believe" \w*
+\w πιστῷ|lemma="πιστός" strong="G41030" x-morph="Gr,AA,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/believe" \w*
 \w Ἀβραὰμ|lemma="Ἀβραάμ" strong="G00110" x-morph="Gr,N,,,,,DMSI" x-tw="rc://*/tw/dict/bible/names/abraham" \w*.
 
 \v 10
@@ -1617,7 +1617,7 @@
 \w δι’|lemma="διά" strong="G12230" x-morph="Gr,P,,,,,A,,,"\w*
 \w ἀσθένειαν|lemma="ἀσθένεια" strong="G07690" x-morph="Gr,N,,,,,AFS,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
-\w σαρκὸς|lemma="σάρξ" strong="G45610" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/flesh" \w*,
+\w σαρκὸς|lemma="σάρξ" strong="G45610" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/flesh" \w*,
 \w εὐηγγελισάμην|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,IAM1,,S," x-tw="rc://*/tw/dict/bible/other/preach" \w*
 \w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
@@ -2571,7 +2571,7 @@
 \w τὶ|lemma="τις" strong="G51000" x-morph="Gr,RI,,,,NNS,"\w*
 \w ἐστιν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA3,,S,"\w*,
 \w οὔτε|lemma="οὔτε" strong="G37770" x-morph="Gr,CO,,,,,,,,"\w*
-\w ἀκροβυστία|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/curcumcise" \w*,
+\w ἀκροβυστία|lemma="ἀκροβυστία" strong="G02030" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/circumcise" \w*,
 \w ἀλλὰ|lemma="ἀλλά" strong="G02350" x-morph="Gr,CO,,,,,,,,"\w*
 \w καινὴ|lemma="καινός" strong="G25370" x-morph="Gr,AA,,,,NFS,"\w*
 \w κτίσις|lemma="κτίσις" strong="G29370" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/creation" \w*.

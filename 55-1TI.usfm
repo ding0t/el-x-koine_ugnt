@@ -841,7 +841,7 @@
 \w ἀγγέλοις|lemma="ἄγγελος" strong="G00320" x-morph="Gr,N,,,,,DMP," x-tw="rc://*/tw/dict/bible/kt/angel" \w*,
 \w ἐκηρύχθη|lemma="κηρύσσω" strong="G27840" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/other/preach" \w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
-\w ἔθνεσιν|lemma="ἔθνος" strong="G14840" x-morph="Gr,N,,,,,DNP," x-tw="rc://*/tw/dict/bible/kt/nation" \w*,
+\w ἔθνεσιν|lemma="ἔθνος" strong="G14840" x-morph="Gr,N,,,,,DNP," x-tw="rc://*/tw/dict/bible/other/nation" \w*,
 \w ἐπιστεύθη|lemma="πιστεύω" strong="G41000" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/kt/believe" \w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w κόσμῳ|lemma="κόσμος" strong="G28890" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/world" \w*,
@@ -1124,7 +1124,7 @@
 \w πατέρα|lemma="πατήρ" strong="G39620" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/father" \w*,
 \w νεωτέρους|lemma="νεώτερος" strong="G35125" x-morph="Gr,NS,,,,AMPC"\w*
 \w ὡς|lemma="ὡς" strong="G56130" x-morph="Gr,CS,,,,,,,," x-tw="rc://*/tw/dict/bible/other/like" \w*
-\w ἀδελφούς|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,AMP," x-tw="rc://*/tw/dict/bible/other/brother" \w*,
+\w ἀδελφούς|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,AMP," x-tw="rc://*/tw/dict/bible/kt/brother" \w*,
 
 \v 2
 \w πρεσβυτέρας|lemma="πρεσβύτερος" strong="G42450" x-morph="Gr,NS,,,,AFPC" x-tw="rc://*/tw/dict/bible/other/elder" \w*
@@ -1282,7 +1282,7 @@
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EP,,,,AFS,"\w*
 \w πρώτην|lemma="πρῶτος" strong="G44130" x-morph="Gr,EO,,,,AFS,"\w*
-\w πίστιν|lemma="πίστις" strong="G41020" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/faith" \w*
+\w πίστιν|lemma="πίστις" strong="G41020" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/faith" \w*
 \w ἠθέτησαν|lemma="ἀθετέω" strong="G01140" x-morph="Gr,V,IAA3,,P,"\w*.
 
 \v 13
