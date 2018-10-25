@@ -1553,7 +1553,7 @@
 \w ἐπίστασθε|lemma="ἐπίσταμαι" strong="G19870" x-morph="Gr,V,IPM2,,P," x-tw="rc://*/tw/dict/bible/other/know" \w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,RR,,,,ANS,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,GFS,"\w*
-\w αὔριον|lemma="αὔριον" strong="G08390" x-morph="Gr,D,,,,,,,,"\w*,
+\w αὔριον|lemma="αὔριον" strong="G08390" x-morph="Gr,D,,,,,,,,,"\w*,
 \w ποία|lemma="ποῖος" strong="G41690" x-morph="Gr,ET,,,,NFS,"\w*
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w ζωὴ|lemma="ζωή" strong="G22220" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/life" \w*
