@@ -1764,8 +1764,8 @@
 \w σε|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,S,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w ἐντολὴν|lemma="ἐντολή" strong="G17850" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/command" \w*
-\w ἄσπιλον|lemma="ἄσπιλος" strong="G07840" x-morph="Gr,PN,,,,AFS,"\w*
-\w ἀνεπίλημπτον|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,PN,,,,AFS," x-tw="rc://*/tw/dict/bible/other/reproach" \w*,
+\w ἄσπιλον|lemma="ἄσπιλος" strong="G07840" x-morph="Gr,NP,,,,AFS,"\w*
+\w ἀνεπίλημπτον|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,NP,,,,AFS," x-tw="rc://*/tw/dict/bible/other/reproach" \w*,
 \w μέχρι|lemma="μέχρι" strong="G33600" x-morph="Gr,PI,,,,G,,,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
 \w ἐπιφανείας|lemma="ἐπιφάνεια" strong="G20150" x-morph="Gr,N,,,,,GFS,"\w*
