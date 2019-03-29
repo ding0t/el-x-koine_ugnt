@@ -8,7 +8,6 @@
 
 \c 1
 \p
-
 \v 1
 \w Ἰούδας|lemma="Ἰούδας" strong="G24550" x-morph="Gr,N,,,,,NMS,"\w*,
 \k-s | x-tw="rc://*/tw/dict/bible/kt/jesus"
@@ -43,8 +42,8 @@
 \w ἀγάπη|lemma="ἀγάπη" strong="G00260" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/love" \w*
 \w πληθυνθείη|lemma="πληθύνω" strong="G41290" x-morph="Gr,V,OAP3,,S," x-tw="rc://*/tw/dict/bible/other/multiply" \w*.
 
-\v 3
 \p
+\v 3
 \w ἀγαπητοί|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,NS,,,,VMP," x-tw="rc://*/tw/dict/bible/kt/beloved" \w*,
 \w πᾶσαν|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,AFS,"\w*
 \w σπουδὴν|lemma="σπουδή" strong="G47100" x-morph="Gr,N,,,,,AFS,"\w*
@@ -103,8 +102,8 @@
 \k-e\*,
 \w ἀρνούμενοι|lemma="ἀρνέομαι" strong="G07200" x-morph="Gr,V,PPM,NMP,"\w*.
 
-\v 5
 \p
+\v 5
 \w ὑπομνῆσαι|lemma="ὑπομιμνῄσκω" strong="G52790" x-morph="Gr,V,NAA,,,,,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*
@@ -178,8 +177,8 @@
 \w δίκην|lemma="δίκη" strong="G13490" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/punish" \w*
 \w ὑπέχουσαι|lemma="ὑπέχω" strong="G52540" x-morph="Gr,V,PPA,NFP,"\w*.
 
-\v 8
 \p
+\v 8
 \w ὁμοίως|lemma="ὁμοίως" strong="G36680" x-morph="Gr,D,,,,,,,,," x-tw="rc://*/tw/dict/bible/other/like" \w*
 \w μέντοι|lemma="μέντοι" strong="G33050" x-morph="Gr,CC,,,,,,,,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
@@ -376,8 +375,8 @@
 \w ὠφελίας|lemma="ὠφέλια" strong="G56220" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/profit" \w*
 \w χάριν|lemma="χάριν" strong="G54840" x-morph="Gr,PI,,,,G,,,"\w*.
 
-\v 17
 \p
+\v 17
 \w ὑμεῖς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2N,P,"\w*
 \w δέ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*,
 \w ἀγαπητοί|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,NS,,,,VMP," x-tw="rc://*/tw/dict/bible/kt/beloved" \w*,
@@ -491,8 +490,8 @@
 \w ἐσπιλωμένον|lemma="σπιλόω" strong="G46950" x-morph="Gr,V,PEP,AMS," x-tw="rc://*/tw/dict/bible/other/defile" \w*
 \w χιτῶνα|lemma="χιτών" strong="G55090" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/tunic" \w*.
 
-\v 24
 \p
+\v 24
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,DMS,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w δυναμένῳ|lemma="δύναμαι" strong="G14100" x-morph="Gr,V,PPM,DMS," x-tw="rc://*/tw/dict/bible/kt/power" \w*

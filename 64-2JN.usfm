@@ -8,7 +8,6 @@
 
 \c 1
 \p
-
 \v 1
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
 \w πρεσβύτερος|lemma="πρεσβύτερος" strong="G42450" x-morph="Gr,NS,,,,NMSC" x-tw="rc://*/tw/dict/bible/other/elder" \w*;
@@ -23,7 +22,7 @@
 \w ἀγαπῶ|lemma="ἀγαπάω" strong="G00250" x-morph="Gr,V,IPA1,,S," x-tw="rc://*/tw/dict/bible/kt/love" \w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w ἀληθείᾳ|lemma="ἀλήθεια" strong="G02250" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/true" \w*
-\w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*(
+(\w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,DO,,,,,,,,"\w*
 \w ἐγὼ|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1N,S,"\w*
 \w μόνος|lemma="μόνος" strong="G34410" x-morph="Gr,EF,,,,NMS,"\w*,
@@ -78,8 +77,8 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἀγάπῃ|lemma="ἀγάπη" strong="G00260" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/love" \w*.
 
-\v 4
 \p
+\v 4
 \w ἐχάρην|lemma="χαίρω" strong="G54630" x-morph="Gr,V,IAP1,,S," x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w λείαν|lemma="λείαν" strong="G30290" x-morph="Gr,D,,,,,,,,,"\w*
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
@@ -248,8 +247,8 @@
 \w τοῖς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DNP,"\w*
 \w πονηροῖς|lemma="πονηρός" strong="G41900" x-morph="Gr,AR,,,,DNP," x-tw="rc://*/tw/dict/bible/kt/evil" \w*.
 
-\v 12
 \p
+\v 12
 \w πολλὰ|lemma="πολλός" strong="G41830" x-morph="Gr,RI,,,,ANP,"\w*
 \w ἔχων|lemma="ἔχω" strong="G21920" x-morph="Gr,V,PPA,NMS,"\w*
 \w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*
