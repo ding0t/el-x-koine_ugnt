@@ -3454,7 +3454,7 @@
 \w σου|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,S,"\w*."
 
 \v 11
-\w ὁ|lemma="ὅς" strong="G35880" x-morph="Gr,RP,,,,NMS,"\w*
+\w ὁ|lemma="ὅς" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἀπεκρίθη|lemma="ἀποκρίνω" strong="G06110" x-morph="Gr,V,IAP3,,S,"\w*
 \w αὐτοῖς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMP,"\w*,
@@ -15519,7 +15519,7 @@
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w μαρτυρήσω|lemma="μαρτυρέω" strong="G31400" x-morph="Gr,V,SAA1,,S," x-tw="rc://*/tw/dict/bible/kt/testimony" \w*
 \w τῇ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DFS,"\w*
-\w ἀληθείᾳ|lemma="ἀλήθεια" strong="G02250" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/true" \w*."
+\w ἀληθείᾳ|lemma="ἀλήθεια" strong="G02250" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/true" \w*.
 \w πᾶς|lemma="πᾶς" strong="G39560" x-morph="Gr,RI,,,,NMS,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
 \w ὢν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,PPA,NMS,"\w*
@@ -15529,7 +15529,7 @@
 \w ἀκούει|lemma="ἀκούω" strong="G01910" x-morph="Gr,V,IPA3,,S,"\w*
 \w μου|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1G,S,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
-\w φωνῆς|lemma="φωνή" strong="G54560" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/voice" \w*.
+\w φωνῆς|lemma="φωνή" strong="G54560" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/voice" \w*."
 
 \v 38
 \w λέγει|lemma="λέγω" strong="G30040" x-morph="Gr,V,IPA3,,S,"\w*

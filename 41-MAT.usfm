@@ -18619,8 +18619,8 @@
 \w μετὰ|lemma="μετά" strong="G33260" x-morph="Gr,P,,,,,A,,,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,ANS,"\w*
-\w ἐγερθῆναί|lemma="ἐγείρω" strong="G14530" x-morph="Gr,V,NAP,,,,," x-tw="rc://*/tw/dict/bible/other/raise" \w*,
-\w με|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1A,S,"\w*
+\w ἐγερθῆναί|lemma="ἐγείρω" strong="G14530" x-morph="Gr,V,NAP,,,,," x-tw="rc://*/tw/dict/bible/other/raise" \w*
+\w με|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1A,S,"\w*,
 \w προάξω|lemma="προάγω" strong="G42540" x-morph="Gr,V,IFA1,,S,"\w*
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
