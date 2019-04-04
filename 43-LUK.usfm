@@ -15936,7 +15936,7 @@
 \w παραληφθήσεται|lemma="παραλαμβάνω" strong="G38800" x-morph="Gr,V,IFP3,,S,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
-\w ἕτερος|lemma="ἕτερος" strong="G20870" x-morph="Gr,A,,,,,NMS,"\w*
+\w ἕτερος|lemma="ἕτερος" strong="G20870" x-morph="Gr,AA,,,,NMS,"\w*
 \w ἀφεθήσεται|lemma="ἀφίημι" strong="G08630" x-morph="Gr,V,IFP3,,S,"\w*.
 \f*
 
@@ -20680,7 +20680,7 @@
 \w αὐτοῖς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,,DMP,"\w*
 \w κατὰ|lemma="κατά" strong="G25960" x-morph="Gr,P,,,,,G,,,"\w*
 \w ἑορτὴν|lemma="ἑορτή" strong="G18590" x-morph="Gr,N,,,,,AFS,"\w*
-\w ἕνα|lemma="εἷς" strong="G15200" x-morph="Gr,A,,,,,AMS,"\w*.
+\w ἕνα|lemma="εἷς" strong="G15200" x-morph="Gr,AA,,,,AMS,"\w*.
 \f*
 
 \p

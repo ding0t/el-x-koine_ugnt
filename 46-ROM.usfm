@@ -8192,7 +8192,7 @@
 \w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,GMS,"\w*
 \w χριστοῦ|lemma="Χριστιανός" strong="G55470" x-morph="Gr,N,,,,,GMS,"\w*
 \w μετὰ|lemma="μετά" strong="G33260" x-morph="Gr,P,,,,,G,,,"\w*
-\w πάντων|lemma="πᾶς" strong="G39560" x-morph="Gr,A,,,,,GMP,"\w*
+\w πάντων|lemma="πᾶς" strong="G39560" x-morph="Gr,AA,,,,GMP,"\w*
 \w ὑμῶν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,P,"\w*.
 \w Ἀμήν|lemma="ἀμήν" strong="G02810" x-morph="Gr,TF,,,,,,,,"\w*.
 \f*
