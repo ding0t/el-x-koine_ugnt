@@ -13,12 +13,12 @@ dublin_core:
   description: 'An open-licensed, lexically tagged, morphologically parsed critical Greek New Testament with full apparatus. It enables the global Church to have access to the original texts of the New Testament.'
   format: 'text/usfm3'
   identifier: 'ugnt'
-  issued: '2018-09-19'
+  issued: '2019-04-05'
   language:
     direction: 'ltr'
     identifier: 'el-x-koine'
     title: 'Koine Greek'
-  modified: '2018-09-19'
+  modified: '2019-04-05'
   publisher: 'unfoldingWord'
   relation:
     - 'en/ult'
@@ -30,14 +30,14 @@ dublin_core:
       language: 'el-x-koine'
       version: '0'
   subject: 'Greek New Testament'
-  title: 'unfoldingWord Greek New Testament'
+  title: 'unfoldingWord® Greek New Testament'
   type: 'bundle'
-  version: '0.4'
+  version: '0.5'
 
 checking:
   checking_entity:
     - 'unfoldingWord'
-  checking_level: '2'
+  checking_level: '3'
 
 projects:
 

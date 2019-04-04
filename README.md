@@ -1,4 +1,4 @@
-# unfoldingWord Greek New Testament (UGNT)
+# unfoldingWord® Greek New Testament (UGNT)
 
 *An open-licensed, lexically tagged, morphologically parsed critical Greek New Testament with full apparatus. It enables the global Church to have access to the original texts of the New Testament.*
 
@@ -24,5 +24,5 @@ The UGNT text differs from the BHP in only a few respects, which are:
 
 ## Related projects
 
-* [unfoldingWord Greek Lexicon](https://git.door43.org/unfoldingWord/en_ugl)
-* [unfoldingWord Literal Text](https://git.door43.org/unfoldingWord/en_ult)
+* [unfoldingWord® Greek Lexicon](https://git.door43.org/unfoldingWord/en_ugl)
+* [unfoldingWord® Literal Text](https://git.door43.org/unfoldingWord/en_ult)
