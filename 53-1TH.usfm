@@ -353,7 +353,7 @@
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w προφάσει|lemma="πρόφασις" strong="G43920" x-morph="Gr,N,,,,,DFS,"\w*
 \w πλεονεξίας|lemma="πλεονεξία" strong="G41240" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/envy" \w*
-\w Θεὸς|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*(
+(\w Θεὸς|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w μάρτυς|lemma="μάρτυς" strong="G31440" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/testimony" \w*)
 
 \v 6
@@ -1013,7 +1013,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἀρέσκειν|lemma="ἀρέσκω" strong="G07000" x-morph="Gr,V,NPA,,,,,"\w*
 \w Θεῷ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\w καθὼς|lemma="καθώς" strong="G25310" x-morph="Gr,D,,,,,,,,," x-tw="rc://*/tw/dict/bible/other/like" \w*(
+(\w καθὼς|lemma="καθώς" strong="G25310" x-morph="Gr,D,,,,,,,,," x-tw="rc://*/tw/dict/bible/other/like" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
 \w περιπατεῖτε|lemma="περιπατέω" strong="G40430" x-morph="Gr,V,IPA2,,P," x-tw="rc://*/tw/dict/bible/other/walk" \w*),
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*

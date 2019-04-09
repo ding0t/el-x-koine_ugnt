@@ -3041,7 +3041,7 @@
 \w ἢ|lemma="ἤ" strong="G22280" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἀγνοεῖτε|lemma="ἀγνοέω" strong="G00500" x-morph="Gr,V,IPA2,,P," x-tw="rc://*/tw/dict/bible/other/know" \w*,
 \w ἀδελφοί|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,VMP," x-tw="rc://*/tw/dict/bible/kt/brother" \w*
-\w γινώσκουσιν|lemma="γινώσκω" strong="G10970" x-morph="Gr,V,PPA,DMP," x-tw="rc://*/tw/dict/bible/other/know" \w*(
+(\w γινώσκουσιν|lemma="γινώσκω" strong="G10970" x-morph="Gr,V,PPA,DMP," x-tw="rc://*/tw/dict/bible/other/know" \w*
 \w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
 \w νόμον|lemma="νόμος" strong="G35510" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/lawofmoses" \w*
 \w λαλῶ|lemma="λαλέω" strong="G29800" x-morph="Gr,V,IPA1,,S,"\w*),

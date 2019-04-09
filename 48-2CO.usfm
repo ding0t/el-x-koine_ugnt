@@ -2196,7 +2196,7 @@
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w αὐτὴν|lemma="αὐτός" strong="G08460" x-morph="Gr,EF,,,,AFS,"\w*
 \w ἀντιμισθίαν|lemma="ἀντιμισθία" strong="G04890" x-morph="Gr,N,,,,,AFS,"\w*
-\w ὡς|lemma="ὡς" strong="G56130" x-morph="Gr,CS,,,,,,,," x-tw="rc://*/tw/dict/bible/other/like" \w*(
+(\w ὡς|lemma="ὡς" strong="G56130" x-morph="Gr,CS,,,,,,,," x-tw="rc://*/tw/dict/bible/other/like" \w*
 \w τέκνοις|lemma="τέκνον" strong="G50430" x-morph="Gr,N,,,,,DNP," x-tw="rc://*/tw/dict/bible/kt/children" \w*
 \w λέγω|lemma="λέγω" strong="G30040" x-morph="Gr,V,IPA1,,S,"\w*)
 \w πλατύνθητε|lemma="πλατύνω" strong="G41150" x-morph="Gr,V,MAP2,,P,"\w*
