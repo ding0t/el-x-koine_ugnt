@@ -19613,10 +19613,10 @@
 \k-s | x-tw="rc://*/tw/dict/bible/other/12tribesofisrael"
 \w δώδεκα|lemma="δώδεκα" strong="G14270" x-morph="Gr,EN,,,,AFP,"\w*
 \w φυλὰς|lemma="φυλή" strong="G54430" x-morph="Gr,N,,,,,AFP," x-tw="rc://*/tw/dict/bible/other/tribe" \w*
+\k-e\*
 \w κρίνοντες|lemma="κρίνω" strong="G29190" x-morph="Gr,V,PPA,NMP," x-tw="rc://*/tw/dict/bible/kt/judge" \w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
-\w Ἰσραήλ|lemma="Ἰσραήλ" strong="G24740" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/kt/israel" \w*
-\k-e\*.
+\w Ἰσραήλ|lemma="Ἰσραήλ" strong="G24740" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/kt/israel" \w*.
 
 \p
 \v 31
