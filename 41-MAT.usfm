@@ -10593,8 +10593,8 @@
 \w αὐτοῖς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMP,"\w*,
 
 \v 3
-\f + \fqa
-\w Καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
+\f + \ft Some ancient manuscripts include verse 3. \f*
+[\w Καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w πρωΐ|lemma="πρωΐ" strong="G44040" x-morph="Gr,D,,,,,,,,,"\w*
 \w Σήμερον|lemma="σήμερον" strong="G45940" x-morph="Gr,D,,,,,,,,,"\w*
 \w χειμών|lemma="χειμών" strong="G54940" x-morph="Gr,N,,,,,NMS,"\w*;
@@ -10616,8 +10616,7 @@
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMP,"\w*
 \w καιρῶν|lemma="καιρός" strong="G25400" x-morph="Gr,N,,,,,GMP,"\w*
 \w οὐ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
-\w δύνασθε|lemma="δύναμαι" strong="G14100" x-morph="Gr,V,IPM2,,P,"\w*?
-\f*
+\w δύνασθε|lemma="δύναμαι" strong="G14100" x-morph="Gr,V,IPM2,,P,"\w*?]
 
 \v 4
 "\w γενεὰ|lemma="γενεά" strong="G10740" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/generation" \w*
@@ -11584,8 +11583,8 @@
 \w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*."
 
 \v 21
-\f + \fqa
-\w Τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,NNS,"\w*
+\f + \ft Some ancient manuscripts include verse 21. \f*
+[\w Τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,NNS,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NNS,"\w*
 \w γένος|lemma="γένος" strong="G10850" x-morph="Gr,N,,,,,NNS,"\w*
@@ -11596,8 +11595,7 @@
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w προσευχῇ|lemma="προσευχή" strong="G43350" x-morph="Gr,N,,,,,DFS,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w νηστείᾳ|lemma="νηστεία" strong="G35210" x-morph="Gr,N,,,,,DFS,"\w*.
-\f*
+\w νηστείᾳ|lemma="νηστεία" strong="G35210" x-morph="Gr,N,,,,,DFS,"\w*.]
 
 \p
 \v 22
@@ -12004,8 +12002,8 @@
 \w οὐρανοῖς|lemma="οὐρανός" strong="G37720" x-morph="Gr,N,,,,,DMP," x-tw="rc://*/tw/dict/bible/kt/heaven" \w*.
 
 \v 11
-\f + \fqa
-\w Ἦλθεν|lemma="ἔρχομαι" strong="G20640" x-morph="Gr,V,IAA3,,S,"\w*
+\f + \ft Some ancient manuscripts include verse 11. \f*
+[\w Ἦλθεν|lemma="ἔρχομαι" strong="G20640" x-morph="Gr,V,IAA3,,S,"\w*
 \w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
 \w υἱὸς|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,NMS,"\w*
@@ -12013,8 +12011,7 @@
 \w ἀνθρώπου|lemma="ἄνθρωπος" strong="G04440" x-morph="Gr,N,,,,,GMS,"\w*
 \w σῶσαι|lemma="σῴζω" strong="G49820" x-morph="Gr,V,NAA,,,,,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
-\w ἀπολωλός|lemma="ἀπόλλυμι" strong="G06220" x-morph="Gr,V,PEA,ANS,"\w*.
-\f*
+\w ἀπολωλός|lemma="ἀπόλλυμι" strong="G06220" x-morph="Gr,V,PEA,ANS,"\w*.]
 
 \v 12
 \w τί|lemma="τίς" strong="G51010" x-morph="Gr,RT,,,,ANS,"\w*
@@ -15719,12 +15716,11 @@
 \w εἰσελθεῖν|lemma="εἰσέρχομαι" strong="G15250" x-morph="Gr,V,NAA,,,,,"\w*.
 
 \v 14
-\f + \fqa
-\w τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*
+\f + \ft Some ancient manuscripts include the first part of verse 14 (some copies add this phrase after verse 12). \f*
+[\w τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*
 \w λήμψεσθε|lemma="λαμβάνω" strong="G29830" x-morph="Gr,V,IFM2,,P,"\w*
 \w περισσότερον|lemma="περισσοτέρως" strong="G40560" x-morph="Gr,D,,,,,,,,,"\w*
-\w κρίμα|lemma="κρίμα" strong="G29170" x-morph="Gr,N,,,,,ANS,"\w*.
-\f*
+\w κρίμα|lemma="κρίμα" strong="G29170" x-morph="Gr,N,,,,,ANS,"\w*.]
 
 \v 15
 \w οὐαὶ|lemma="οὐαί" strong="G37590" x-morph="Gr,IE,,,,,,,," x-tw="rc://*/tw/dict/bible/kt/woe" \w*
