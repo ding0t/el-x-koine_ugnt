@@ -20573,7 +20573,7 @@
 \w εἶπεν|lemma="λέγω" strong="G30040" x-morph="Gr,V,IAA3,,S,"\w*
 \w ἔτι|lemma="ἔτι" strong="G20890" x-morph="Gr,D,,,,,,,,,"\w*
 \w ζῶν|lemma="ζάω" strong="G21980" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/kt/life" \w*,
-\w μετὰ|lemma="μετά" strong="G33260" x-morph="Gr,P,,,,,A,,,"\w*‘
+‘\w μετὰ|lemma="μετά" strong="G33260" x-morph="Gr,P,,,,,A,,,"\w*
 \w τρεῖς|lemma="τρεῖς" strong="G51400" x-morph="Gr,EN,,,,AFP,"\w*
 \w ἡμέρας|lemma="ἡμέρα" strong="G22500" x-morph="Gr,N,,,,,AFP," x-tw="rc://*/tw/dict/bible/other/biblicaltimeday" \w*
 \w ἐγείρομαι|lemma="ἐγείρω" strong="G14530" x-morph="Gr,V,IPP1,,S," x-tw="rc://*/tw/dict/bible/other/raise" \w*.’
