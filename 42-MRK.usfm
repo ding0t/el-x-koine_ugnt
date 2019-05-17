@@ -5174,7 +5174,7 @@
 \w δόλος|lemma="δόλος" strong="G13880" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/other/deceive" \w*,
 \w ἀσέλγεια|lemma="ἀσέλγεια" strong="G07660" x-morph="Gr,N,,,,,NFS,"\w*,
 \w ὀφθαλμὸς|lemma="ὀφθαλμός" strong="G37880" x-morph="Gr,N,,,,,NMS,"\w*,
-\w πονηρός|lemma="πονηρός" strong="G41900" x-morph="Gr,NS,,,,NMS," x-tw="rc://*/tw/dict/bible/other/evil" \w*,
+\w πονηρός|lemma="πονηρός" strong="G41900" x-morph="Gr,NS,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/evil" \w*,
 \w βλασφημία|lemma="βλασφημία" strong="G09880" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/blasphemy" \w*,
 \w ὑπερηφανία|lemma="ὑπερηφανία" strong="G52430" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/proud" \w*,
 \w ἀφροσύνη|lemma="ἀφροσύνη" strong="G08770" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/foolish" \w*.

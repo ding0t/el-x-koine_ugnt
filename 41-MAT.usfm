@@ -11133,7 +11133,7 @@
 \w ἑκάστῳ|lemma="ἕκαστος" strong="G15380" x-morph="Gr,RI,,,,DMS,"\w*
 \w κατὰ|lemma="κατά" strong="G25960" x-morph="Gr,P,,,,,A,,,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
-\w πρᾶξιν|lemma="πρᾶξις" strong="G42340" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/works" \w*
+\w πρᾶξιν|lemma="πρᾶξις" strong="G42340" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/works" \w*
 \w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMS,"\w*’.
 
 \v 28
