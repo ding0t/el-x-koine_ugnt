@@ -3555,8 +3555,8 @@
 \w δουλεύω|lemma="δουλεύω" strong="G13980" x-morph="Gr,V,IPA1,,S," x-tw="rc://*/tw/dict/bible/other/servant" \w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/lawofmoses"
 \w νόμῳ|lemma="νόμος" strong="G35510" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/other/law" \w*
-\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*;
+\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*;
+\k-e\*
 \w τῇ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DFS,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CO,,,,,,,,"\w*
 \w σαρκὶ|lemma="σάρξ" strong="G45610" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/flesh" \w*,
