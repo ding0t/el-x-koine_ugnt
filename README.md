@@ -22,6 +22,7 @@ The UGNT text differs from the BHP in only a few respects, which are:
   * Romans 16:24
 * Partial Verse Additions - We are compiling a list of commonly used variants which we will include with existing verses. A list will be provided here when they are available.
 * Metadata - The UGNT text includes various metadata to mark the text which create links to other content that our software uses.  For example, we add links to our [translationWords](https://git.door43.org/Door43/en_tw) articles where appropriate (about 33,737 occurrences).
+* We remove the English style quotation marks that the BHP has (see this [pull request](https://git.door43.org/unfoldingWord/UGNT/pulls/150)).
 
 ## Related projects
 
