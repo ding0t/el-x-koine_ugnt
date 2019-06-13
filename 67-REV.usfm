@@ -13,8 +13,8 @@
 \w ἀποκάλυψις|lemma="ἀποκάλυψις" strong="G06020" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/reveal" \w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/jesus"
 \w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,GMS,"\w*
-\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*
-\k-e\*,
+\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*,
+\k-e\*
 \w ἣν|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,AFS,"\w*
 \w ἔδωκεν|lemma="δίδωμι" strong="G13250" x-morph="Gr,V,IAA3,,S,"\w*
 \w αὐτῷ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMS,"\w*
@@ -48,15 +48,15 @@
 \k-s | x-tw="rc://*/tw/dict/bible/kt/wordofgod"
 \w λόγον|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,AMS,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
-\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*,
+\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*,
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w μαρτυρίαν|lemma="μαρτυρία" strong="G31410" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/testimony" \w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/jesus"
 \w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,GMS,"\w*
-\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*
-\k-e\*,
+\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*,
+\k-e\*
 \w ὅσα|lemma="ὅσος" strong="G37450" x-morph="Gr,RR,,,,ANP,"\w*
 \w εἶδεν|lemma="ὁράω" strong="G37080" x-morph="Gr,V,IAA3,,S,"\w*.
 
@@ -121,8 +121,8 @@
 \w ἀπὸ|lemma="ἀπό" strong="G05750" x-morph="Gr,P,,,,,G,,,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/jesus"
 \w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,GMS,"\w*
-\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*
-\k-e\*,
+\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*,
+\k-e\*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
 \w μάρτυς|lemma="μάρτυς" strong="G31440" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/testimony" \w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
@@ -248,8 +248,8 @@
 \w ὑπομονῇ|lemma="ὑπομονή" strong="G52810" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/endure" \w*,
 \k-s | x-tw="rc://*/tw/dict/bible/kt/inchrist"
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
-\w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/jesus" \w*
-\k-e\*,
+\w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/jesus" \w*,
+\k-e\*
 \w ἐγενόμην|lemma="γίνομαι" strong="G10960" x-morph="Gr,V,IAM1,,S,"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w τῇ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DFS,"\w*
@@ -346,8 +346,8 @@
 \w ὅμοιον|lemma="ὅμοιος" strong="G36640" x-morph="Gr,AA,,,,AMS,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/sonofman" 
 \w Υἱὸν|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,AMS,"\w*
-\w Ἀνθρώπου|lemma="ἄνθρωπος" strong="G04440" x-morph="Gr,N,,,,,GMS,"\w*
-\k-e\*,
+\w Ἀνθρώπου|lemma="ἄνθρωπος" strong="G04440" x-morph="Gr,N,,,,,GMS,"\w*,
+\k-e\*
 \w ἐνδεδυμένον|lemma="ἐνδύω" strong="G17460" x-morph="Gr,V,PEM,AMS," x-tw="rc://*/tw/dict/bible/other/clothed" \w*
 \w ποδήρη|lemma="ποδήρης" strong="G41580" x-morph="Gr,NS,,,,AMS,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -988,8 +988,8 @@
 \k-s | x-tw="rc://*/tw/dict/bible/kt/sonofgod"
 \w Υἱὸς|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,NMS,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
-\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*,
+\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*,
+\k-e\*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
 \w ἔχων|lemma="ἔχω" strong="G21920" x-morph="Gr,V,PPA,NMS,"\w*
 \w τοὺς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMP,"\w*
@@ -1359,8 +1359,8 @@
 \k-s | x-tw="rc://*/tw/dict/bible/other/bookoflife"
 \w βίβλου|lemma="βίβλος" strong="G09760" x-morph="Gr,N,,,,,GFS,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
-\w ζωῆς|lemma="ζωή" strong="G22220" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/life" \w*
-\k-e\*,
+\w ζωῆς|lemma="ζωή" strong="G22220" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/life" \w*,
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὁμολογήσω|lemma="ὁμολογέω" strong="G36700" x-morph="Gr,V,IFA1,,S," x-tw="rc://*/tw/dict/bible/kt/confess" \w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
@@ -2739,8 +2739,8 @@
 \k-s | x-tw="rc://*/tw/dict/bible/kt/wordofgod"
 \w λόγον|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,AMS,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
-\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*,
+\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*,
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w διὰ|lemma="διά" strong="G12230" x-morph="Gr,P,,,,,A,,,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
@@ -5200,8 +5200,8 @@
 \w ὠδίνουσα|lemma="ὠδίνω" strong="G56050" x-morph="Gr,V,PPA,NFS,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w βασανιζομένη|lemma="βασανίζω" strong="G09280" x-morph="Gr,V,PPP,NFS,"\w*
-\w τεκεῖν|lemma="τίκτω" strong="G50880" x-morph="Gr,V,NAA,,,,,"\w*
-\k-e\*.
+\w τεκεῖν|lemma="τίκτω" strong="G50880" x-morph="Gr,V,NAA,,,,,"\w*.
+\k-e\*
 
 \v 3
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -5863,8 +5863,8 @@
 \w ἀπὸ|lemma="ἀπό" strong="G05750" x-morph="Gr,P,,,,,G,,,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/other/creation" 
 \w καταβολῆς|lemma="καταβολή" strong="G26020" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/foundation" \w*
-\w κόσμου|lemma="κόσμος" strong="G28890" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/world" \w*
-\k-e\*.
+\w κόσμου|lemma="κόσμος" strong="G28890" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/world" \w*.
+\k-e\*
 
 \p
 \v 9
@@ -6072,8 +6072,8 @@
 \w χειρὸς|lemma="χείρ" strong="G54950" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/hand" \w*
 \w αὐτῶν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMP,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
-\w δεξιᾶς|lemma="δεξιός" strong="G11880" x-morph="Gr,AR,,,,GFS,"\w*
-\k-e\*,
+\w δεξιᾶς|lemma="δεξιός" strong="G11880" x-morph="Gr,AR,,,,GFS,"\w*,
+\k-e\*
 \w ἢ|lemma="ἤ" strong="G22280" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἐπὶ|lemma="ἐπί" strong="G19090" x-morph="Gr,P,,,,,A,,,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
@@ -6146,8 +6146,8 @@
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/zion" 
 \w Ὄρος|lemma="ὄρος" strong="G37350" x-morph="Gr,N,,,,,ANS,"\w*
-\w Σιών|lemma="Σιών" strong="G46220" x-morph="Gr,N,,,,,GFSI"\w*
-\k-e\*,
+\w Σιών|lemma="Σιών" strong="G46220" x-morph="Gr,N,,,,,GFSI"\w*,
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w μετ’|lemma="μετά" strong="G33260" x-morph="Gr,P,,,,,G,,,"\w*
 \w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GNS,"\w*
@@ -6547,8 +6547,8 @@
 \w ὅμοιον|lemma="ὅμοιος" strong="G36640" x-morph="Gr,AA,,,,AMS," x-tw="rc://*/tw/dict/bible/other/like" \w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/sonofman" 
 \w Υἱὸν|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,AMS,"\w*
-\w Ἀνθρώπου|lemma="ἄνθρωπος" strong="G04440" x-morph="Gr,N,,,,,GMS,"\w*
-\k-e\*,
+\w Ἀνθρώπου|lemma="ἄνθρωπος" strong="G04440" x-morph="Gr,N,,,,,GMS,"\w*,
+\k-e\*
 \w ἔχων|lemma="ἔχω" strong="G21920" x-morph="Gr,V,PPA,NMS,"\w*
 \w ἐπὶ|lemma="ἐπί" strong="G19090" x-morph="Gr,P,,,,,G,,,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
@@ -6845,8 +6845,8 @@
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/fear"
 \w φοβηθῇ|lemma="φοβέω" strong="G53990" x-morph="Gr,V,SAP3,,S," x-tw="rc://*/tw/dict/bible/kt/fear" \w*,
-\w Κύριε|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,VMS," x-tw="rc://*/tw/dict/bible/kt/lord" \w*
-\k-e\*,
+\w Κύριε|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,VMS," x-tw="rc://*/tw/dict/bible/kt/lord" \w*,
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w δοξάσει|lemma="δοξάζω" strong="G13920" x-morph="Gr,V,IFA3,,S," x-tw="rc://*/tw/dict/bible/kt/glory" \w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
@@ -7730,8 +7730,8 @@
 \w ἀπὸ|lemma="ἀπό" strong="G05750" x-morph="Gr,P,,,,,G,,,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/other/creation" 
 \w καταβολῆς|lemma="καταβολή" strong="G26020" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/foundation" \w*
-\w κόσμου|lemma="κόσμος" strong="G28890" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/world" \w*
-\k-e\*,
+\w κόσμου|lemma="κόσμος" strong="G28890" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/world" \w*,
+\k-e\*
 \w βλεπόντων|lemma="βλέπω" strong="G09910" x-morph="Gr,V,PPA,GMP,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
 \w θηρίον|lemma="θηρίον" strong="G23420" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/other/beast" \w*
@@ -8026,8 +8026,8 @@
 \w παντὸς|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,GNS,"\w*
 \k-s | x-tw="rc://*/tw/dict/bible/kt/demon" 
 \w πνεύματος|lemma="πνεῦμα" strong="G41510" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/spirit" \w*
-\w ἀκαθάρτου|lemma="ἀκάθαρτος" strong="G01690" x-morph="Gr,AA,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/clean" \w*
-\k-e\*,
+\w ἀκαθάρτου|lemma="ἀκάθαρτος" strong="G01690" x-morph="Gr,AA,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/clean" \w*,
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w φυλακὴ|lemma="φυλακή" strong="G54380" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/prison" \w*
 \w παντὸς|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,GNS,"\w*
@@ -8991,8 +8991,8 @@
 \k-s | x-tw="rc://*/tw/dict/bible/kt/wordofgod"
 \w λόγος|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,NMS,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
-\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*.
+\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*.
+\k-e\*
 
 \v 14
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -9341,8 +9341,8 @@
 \k-s | x-tw="rc://*/tw/dict/bible/kt/wordofgod"
 \w λόγον|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,AMS,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
-\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
-\k-e\*,
+\w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*,
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w οἵτινες|lemma="ὅστις" strong="G37480" x-morph="Gr,RR,,,,NMP,"\w*
 \w οὐ|lemma="οὐ" strong="G37560" x-morph="Gr,DO,,,,,,,,"\w*
@@ -9592,8 +9592,8 @@
 \w ὅ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,NNS,"\w*
 \w ἐστιν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA3,,S,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,GFS,"\w*
-\w ζωῆς|lemma="ζωή" strong="G22220" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/life" \w*
-\k-e\*.
+\w ζωῆς|lemma="ζωή" strong="G22220" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/life" \w*.
+\k-e\*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἐκρίθησαν|lemma="κρίνω" strong="G29190" x-morph="Gr,V,IAP3,,P," x-tw="rc://*/tw/dict/bible/kt/judge" \w*
 \w οἱ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMP,"\w*
@@ -9716,8 +9716,8 @@
 \k-s | x-tw="rc://*/tw/dict/bible/other/holycity" 
 \w πόλιν|lemma="πόλις" strong="G41720" x-morph="Gr,N,,,,,AFS,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
-\w ἁγίαν|lemma="ἅγιος" strong="G00400" x-morph="Gr,AR,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/holy" \w*
-\k-e\*,
+\w ἁγίαν|lemma="ἅγιος" strong="G00400" x-morph="Gr,AR,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/holy" \w*,
+\k-e\*
 \w Ἰερουσαλὴμ|lemma="Ἰερουσαλήμ" strong="G24140" x-morph="Gr,N,,,,,AFSI" x-tw="rc://*/tw/dict/bible/names/jerusalem" \w*
 \w καινὴν|lemma="καινός" strong="G25370" x-morph="Gr,AA,,,,AFS,"\w*,
 \w εἶδον|lemma="ὁράω" strong="G37080" x-morph="Gr,V,IAA1,,S,"\w*
@@ -9963,8 +9963,8 @@
 \w πόλιν|lemma="πόλις" strong="G41720" x-morph="Gr,N,,,,,AFS,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w ἁγίαν|lemma="ἅγιος" strong="G00400" x-morph="Gr,AR,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/holy" \w*
-\w Ἰερουσαλὴμ|lemma="Ἰερουσαλήμ" strong="G24140" x-morph="Gr,N,,,,,AFSI" x-tw="rc://*/tw/dict/bible/names/jerusalem" \w*
-\k-e\*,
+\w Ἰερουσαλὴμ|lemma="Ἰερουσαλήμ" strong="G24140" x-morph="Gr,N,,,,,AFSI" x-tw="rc://*/tw/dict/bible/names/jerusalem" \w*,
+\k-e\*
 \w καταβαίνουσαν|lemma="καταβαίνω" strong="G25970" x-morph="Gr,V,PPA,AFS,"\w*
 \w ἐκ|lemma="ἐκ" strong="G15370" x-morph="Gr,P,,,,,G,,,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
@@ -10015,8 +10015,8 @@
 \w δώδεκα|lemma="δώδεκα" strong="G14270" x-morph="Gr,EN,,,,GFPI"\w*
 \w φυλῶν|lemma="φυλή" strong="G54430" x-morph="Gr,N,,,,,GFP," x-tw="rc://*/tw/dict/bible/other/tribe" \w*
 \w υἱῶν|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,GMP," x-tw="rc://*/tw/dict/bible/kt/son" \w*
-\w Ἰσραήλ|lemma="Ἰσραήλ" strong="G24740" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/kt/israel" \w*
-\k-e\*;
+\w Ἰσραήλ|lemma="Ἰσραήλ" strong="G24740" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/kt/israel" \w*;
+\k-e\*
 
 \v 13
 \w ἀπὸ|lemma="ἀπό" strong="G05750" x-morph="Gr,P,,,,,G,,,"\w*
@@ -10839,8 +10839,8 @@
 \k-s | x-tw="rc://*/tw/dict/bible/other/holycity" 
 \w πόλεως|lemma="πόλις" strong="G41720" x-morph="Gr,N,,,,,GFS,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
-\w ἁγίας|lemma="ἅγιος" strong="G00400" x-morph="Gr,AR,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/holy" \w*
-\k-e\*,
+\w ἁγίας|lemma="ἅγιος" strong="G00400" x-morph="Gr,AR,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/holy" \w*,
+\k-e\*
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,GNP,"\w*
 \w γεγραμμένων|lemma="γράφω" strong="G11250" x-morph="Gr,V,PEP,GNP," x-tw="rc://*/tw/dict/bible/other/written" \w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
@@ -10861,8 +10861,8 @@
 \w ἔρχου|lemma="ἔρχομαι" strong="G20640" x-morph="Gr,V,MPM2,,S,"\w*,
 \k-s | x-tw="rc://*/tw/dict/bible/kt/jesus"
 \w Κύριε|lemma="κύριος" strong="G29620" x-morph="Gr,N,,,,,VMS," x-tw="rc://*/tw/dict/bible/kt/lord" \w*
-\w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,VMS,"\w*
-\k-e\*!
+\w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,VMS,"\w*!
+\k-e\*
 
 \p
 \v 21
