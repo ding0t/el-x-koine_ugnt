@@ -4105,7 +4105,7 @@
 \w πάντα|lemma="πᾶς" strong="G39560" x-morph="Gr,RI,,,,ANP,"\w*
 \w συνεργεῖ|lemma="συνεργέω" strong="G49030" x-morph="Gr,V,IPA3,,S,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
-\w Θεὸς|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,NMS," x-tw="rc:///tw/dict/bible/kt/god" \w*
+\w Θεὸς|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w ἀγαθόν|lemma="ἀγαθός" strong="G00180" x-morph="Gr,NS,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/good" \w*,
 \w τοῖς|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,DMP,"\w*
