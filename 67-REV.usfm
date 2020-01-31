@@ -6560,12 +6560,12 @@
 \w δρέπανόν|lemma="δρέπανον" strong="G14070" x-morph="Gr,N,,,,,ANS,"\w*
 \w σου|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,S,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w θέρισον|lemma="θερίζω" strong="G23250" x-morph="Gr,V,MAA2,,S," x-tw="rc://*/tw/dict/bible/other/reap" \w*,
+\w θέρισον|lemma="θερίζω" strong="G23250" x-morph="Gr,V,MAA2,,S," x-tw="rc://*/tw/dict/bible/other/harvest" \w*,
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \w ἦλθεν|lemma="ἔρχομαι" strong="G20640" x-morph="Gr,V,IAA3,,S,"\w*
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w ὥρα|lemma="ὥρα" strong="G56100" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/hour" \w*
-\w θερίσαι|lemma="θερίζω" strong="G23250" x-morph="Gr,V,NAA,,,,," x-tw="rc://*/tw/dict/bible/other/reap" \w*,
+\w θερίσαι|lemma="θερίζω" strong="G23250" x-morph="Gr,V,NAA,,,,," x-tw="rc://*/tw/dict/bible/other/harvest" \w*,
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \w ἐξηράνθη|lemma="ξηραίνω" strong="G35830" x-morph="Gr,V,IAP3,,S,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
@@ -6588,7 +6588,7 @@
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w γῆν|lemma="γῆ" strong="G10930" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/earth" \w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w ἐθερίσθη|lemma="θερίζω" strong="G23250" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w ἐθερίσθη|lemma="θερίζω" strong="G23250" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w γῆ|lemma="γῆ" strong="G10930" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/earth" \w*.
 

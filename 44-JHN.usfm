@@ -2851,7 +2851,7 @@
 
 \v 36
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
-\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w μισθὸν|lemma="μισθός" strong="G34080" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/reward" \w*,
 \w λαμβάνει|lemma="λαμβάνω" strong="G29830" x-morph="Gr,V,IPA3,,S," x-tw="rc://*/tw/dict/bible/other/receive" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -2867,7 +2867,7 @@
 \w χαίρῃ|lemma="χαίρω" strong="G54630" x-morph="Gr,V,SPA3,,S," x-tw="rc://*/tw/dict/bible/other/joy" \w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
-\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/reap" \w*.
+\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/harvest" \w*.
 
 \v 37
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
@@ -2885,13 +2885,13 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἄλλος|lemma="ἄλλος" strong="G02430" x-morph="Gr,RI,,,,NMS,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
-\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/reap" \w*.
+\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/harvest" \w*.
 
 \v 38
 \w ἐγὼ|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1N,S,"\w*
 \w ἀπέστειλα|lemma="ἀποστέλλω" strong="G06490" x-morph="Gr,V,IAA1,,S," x-tw="rc://*/tw/dict/bible/other/send" \w*
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*
-\w θερίζειν|lemma="θερίζω" strong="G23250" x-morph="Gr,V,NPA,,,,," x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w θερίζειν|lemma="θερίζω" strong="G23250" x-morph="Gr,V,NPA,,,,," x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w ὃ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,ANS,"\w*
 \w οὐχ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ὑμεῖς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2N,P,"\w*

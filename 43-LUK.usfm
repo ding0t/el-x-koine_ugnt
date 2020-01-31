@@ -11766,7 +11766,7 @@
 \w οὐ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w σπείρουσιν|lemma="σπείρω" strong="G46870" x-morph="Gr,V,IPA3,,P," x-tw="rc://*/tw/dict/bible/other/sow" \w*
 \w οὐδὲ|lemma="οὐδέ" strong="G37610" x-morph="Gr,CC,,,,,,,,"\w*
-\w θερίζουσιν|lemma="θερίζω" strong="G23250" x-morph="Gr,V,IPA3,,P," x-tw="rc://*/tw/dict/bible/other/reap" \w*,
+\w θερίζουσιν|lemma="θερίζω" strong="G23250" x-morph="Gr,V,IPA3,,P," x-tw="rc://*/tw/dict/bible/other/harvest" \w*,
 \w οἷς|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,DMP,"\w*
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἔστιν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA3,,S,"\w*
@@ -17010,7 +17010,7 @@
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἔθηκας|lemma="τίθημι" strong="G50870" x-morph="Gr,V,IAA2,,S,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w θερίζεις|lemma="θερίζω" strong="G23250" x-morph="Gr,V,IPA2,,S," x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w θερίζεις|lemma="θερίζω" strong="G23250" x-morph="Gr,V,IPA2,,S," x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w ὃ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,ANS,"\w*
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἔσπειρας|lemma="σπείρω" strong="G46870" x-morph="Gr,V,IAA2,,S," x-tw="rc://*/tw/dict/bible/other/sow" \w*.
@@ -17037,7 +17037,7 @@
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἔθηκα|lemma="τίθημι" strong="G50870" x-morph="Gr,V,IAA1,,S,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/reap" \w*
+\w θερίζων|lemma="θερίζω" strong="G23250" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/harvest" \w*
 \w ὃ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,ANS,"\w*
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἔσπειρα|lemma="σπείρω" strong="G46870" x-morph="Gr,V,IAA1,,S," x-tw="rc://*/tw/dict/bible/other/sow" \w*?
