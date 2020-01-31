@@ -379,7 +379,7 @@
 \w ἀγαπητοί|lemma="ἀγαπητός" strong="G00270" x-morph="Gr,NS,,,,VMP," x-tw="rc://*/tw/dict/bible/kt/beloved" \w*,
 \w μνήσθητε|lemma="μιμνῄσκω" strong="G34030" x-morph="Gr,V,MAP2,,P,"\w*
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GNP,"\w*
-\w ῥημάτων|lemma="ῥῆμα" strong="G44870" x-morph="Gr,N,,,,,GNP," x-tw="rc://*/tw/dict/bible/other/word" \w*
+\w ῥημάτων|lemma="ῥῆμα" strong="G44870" x-morph="Gr,N,,,,,GNP," \w*
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,GNP,"\w*
 \w προειρημένων|lemma="προλέγω" strong="G43020" x-morph="Gr,V,PEP,GNP,"\w*
 \w ὑπὸ|lemma="ὑπό" strong="G52590" x-morph="Gr,P,,,,,G,,,"\w*

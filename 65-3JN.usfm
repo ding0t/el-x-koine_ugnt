@@ -152,7 +152,7 @@
 \w ἔργα|lemma="ἔργον" strong="G20410" x-morph="Gr,N,,,,,ANP," x-tw="rc://*/tw/dict/bible/kt/works" \w*,
 \w ἃ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,ANP,"\w*
 \w ποιεῖ|lemma="ποιέω" strong="G41600" x-morph="Gr,V,IPA3,,S,"\w*,
-\w λόγοις|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,DMP," x-tw="rc://*/tw/dict/bible/other/word" \w*
+\w λόγοις|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,DMP," \w*
 \w πονηροῖς|lemma="πονηρός" strong="G41900" x-morph="Gr,AA,,,,DMP," x-tw="rc://*/tw/dict/bible/kt/evil" \w*
 \w φλυαρῶν|lemma="φλυαρέω" strong="G53960" x-morph="Gr,V,PPA,NMS,"\w*
 \w ἡμᾶς|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1A,P,"\w*;

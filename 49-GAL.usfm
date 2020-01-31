@@ -2103,7 +2103,7 @@
 \w νόμος|lemma="νόμος" strong="G35510" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/lawofmoses" \w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w ἑνὶ|lemma="εἷς" strong="G15200" x-morph="Gr,EN,,,,DMS,"\w*
-\w λόγῳ|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/other/word" \w*
+\w λόγῳ|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,DMS," \w*
 \w πεπλήρωται|lemma="πληρόω" strong="G41370" x-morph="Gr,V,IEP3,,S," x-tw="rc://*/tw/dict/bible/kt/fulfill" \w*,
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,DMS,"\w*,
@@ -2196,7 +2196,7 @@
 \w ἔχθραι|lemma="ἔχθρα" strong="G21890" x-morph="Gr,N,,,,,NFP,"\w*,
 \w ἔρις|lemma="ἔρις" strong="G20540" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/other/strife" \w*,
 \w ζῆλοι|lemma="ζῆλος" strong="G22050" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/kt/jealous" \w*,
-\w θυμοί|lemma="θυμός" strong="G23720" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/other/angry" \w*,
+\w θυμοί|lemma="θυμός" strong="G23720" x-morph="Gr,N,,,,,NMP," \w*,
 \w ἐριθεῖαι|lemma="ἐριθεία" strong="G20520" x-morph="Gr,N,,,,,NFP," x-tw="rc://*/tw/dict/bible/other/strife" \w*,
 \w διχοστασίαι|lemma="διχοστασία" strong="G13700" x-morph="Gr,N,,,,,NFP,"\w*,
 \w αἱρέσεις|lemma="αἵρεσις" strong="G01390" x-morph="Gr,N,,,,,NFP,"\w*,
