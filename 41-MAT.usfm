@@ -18984,7 +18984,7 @@
 \w οἱ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMP,"\w*
 \w μαθηταὶ|lemma="μαθητής" strong="G31010" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/kt/disciple" \w*
 \w πάντες|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,NMP,"\w*,
-\w ἀφέντες|lemma="ἀφίημι" strong="G08630" x-morph="Gr,V,PAA,NMP," x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*
+\w ἀφέντες|lemma="ἀφίημι" strong="G08630" x-morph="Gr,V,PAA,NMP," x-tw="rc://*/tw/dict/bible/other/forsaken" \w*
 \w αὐτὸν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3AMS,"\w*
 \w ἔφυγον|lemma="φεύγω" strong="G53430" x-morph="Gr,V,IAA3,,P,"\w*.
 
@@ -20134,7 +20134,7 @@
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w τί|lemma="τίς" strong="G51010" x-morph="Gr,RT,,,,ANS,"\w*
 \w με|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1A,S,"\w*
-\w ἐνκατέλιπες|lemma="ἐνκαταλίπω" strong="G14590" x-morph="Gr,V,IAA2,,S," x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*?
+\w ἐνκατέλιπες|lemma="ἐνκαταλίπω" strong="G14590" x-morph="Gr,V,IAA2,,S," x-tw="rc://*/tw/dict/bible/other/forsaken" \w*?
 
 \v 47
 \w τινὲς|lemma="τις" strong="G51000" x-morph="Gr,RI,,,,NMP,"\w*

@@ -5291,7 +5291,7 @@
 \w οὐ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w μή|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w σε|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,S,"\w*
-\w ἐνκαταλείπω|lemma="ἐνκαταλείπω" strong="G14590" x-morph="Gr,V,SAA1,,S," x-tw="rc://*/tw/dict/bible/kt/forsaken" \w*.
+\w ἐνκαταλείπω|lemma="ἐνκαταλείπω" strong="G14590" x-morph="Gr,V,SAA1,,S," x-tw="rc://*/tw/dict/bible/other/forsaken" \w*.
 
 \v 6
 \w ὥστε|lemma="ὥστε" strong="G56200" x-morph="Gr,CS,,,,,,,,"\w*
