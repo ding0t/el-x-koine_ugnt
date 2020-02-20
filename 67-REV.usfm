@@ -5597,7 +5597,7 @@
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMP,"\w*
 \w λοιπῶν|lemma="λοιπός" strong="G30620" x-morph="Gr,RI,,,,GMP,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GNS,"\w*
-\w σπέρματος|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*
+\w σπέρματος|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/children" \w*
 \w αὐτῆς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GFS,"\w*,
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,GMP,"\w*
 \w τηρούντων|lemma="τηρέω" strong="G50830" x-morph="Gr,V,PPA,GMP," x-tw="rc://*/tw/dict/bible/other/obey" \w*
@@ -10697,7 +10697,7 @@
 \w ῥίζα|lemma="ῥίζα" strong="G44910" x-morph="Gr,N,,,,,NFS,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NNS,"\w*
-\w γένος|lemma="γένος" strong="G10850" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*
+\w γένος|lemma="γένος" strong="G10850" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/kt/children" \w*
 \w Δαυείδ|lemma="Δαυείδ" strong="G11380" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/names/david" \w*,
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
 \w ἀστὴρ|lemma="ἀστήρ" strong="G07920" x-morph="Gr,N,,,,,NMS,"\w*

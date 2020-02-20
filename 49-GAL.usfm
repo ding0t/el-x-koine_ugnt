@@ -1389,7 +1389,7 @@
 \w ἄρα|lemma="ἄρα" strong="G06860" x-morph="Gr,D,,,,,,,,,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
 \w Ἀβραὰμ|lemma="Ἀβραάμ" strong="G00110" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/names/abraham" \w*
-\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*
+\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,NNS," x-tw="rc://*/tw/dict/bible/kt/children" \w*
 \w ἐστέ|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA2,,P,"\w*,
 \w κατ’|lemma="κατά" strong="G25960" x-morph="Gr,P,,,,,A,,,"\w*
 \w ἐπαγγελίαν|lemma="ἐπαγγελία" strong="G18600" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/promise" \w*

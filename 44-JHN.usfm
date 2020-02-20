@@ -6376,7 +6376,7 @@
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \w ἐκ|lemma="ἐκ" strong="G15370" x-morph="Gr,P,,,,,G,,,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GNS,"\w*
-\w σπέρματος|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*
+\w σπέρματος|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/children" \w*
 \w Δαυεὶδ|lemma="Δαυείδ" strong="G11380" x-morph="Gr,N,,,,,GMSI" x-tw="rc://*/tw/dict/bible/names/david" \w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἀπὸ|lemma="ἀπό" strong="G05750" x-morph="Gr,P,,,,,G,,,"\w*

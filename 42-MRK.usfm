@@ -9190,7 +9190,7 @@
 \w γυναῖκα|lemma="γυνή" strong="G11350" x-morph="Gr,N,,,,,AFS,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἐξαναστήσῃ|lemma="ἐξανίστημι" strong="G18170" x-morph="Gr,V,SAA3,,S," x-tw="rc://*/tw/dict/bible/other/raise" \w*
-\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*
+\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/children" \w*
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DMS,"\w*
 \w ἀδελφῷ|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/kt/brother" \w*
 \w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMS,"\w*.
@@ -9208,7 +9208,7 @@
 \w ἀποθνῄσκων|lemma="ἀποθνῄσκω" strong="G05990" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/other/death" \w*,
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἀφῆκεν|lemma="ἀφίημι" strong="G08630" x-morph="Gr,V,IAA3,,S,"\w*
-\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*;
+\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/children" \w*;
 
 \v 21
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -9220,7 +9220,7 @@
 \w ἀπέθανεν|lemma="ἀποθνῄσκω" strong="G05990" x-morph="Gr,V,IAA3,,S," x-tw="rc://*/tw/dict/bible/other/death" \w*,
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w καταλιπὼν|lemma="καταλίπω" strong="G26410" x-morph="Gr,V,PAA,NMS,"\w*
-\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*;
+\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/children" \w*;
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
 \w τρίτος|lemma="τρίτος" strong="G51540" x-morph="Gr,NS,,,,NMS,"\w*
@@ -9232,7 +9232,7 @@
 \w ἑπτὰ|lemma="ἑπτά" strong="G20330" x-morph="Gr,NS,,,,NMPI"\w*
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἀφῆκαν|lemma="ἀφίημι" strong="G08630" x-morph="Gr,V,IAA3,,P,"\w*
-\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/other/offspring" \w*.
+\w σπέρμα|lemma="σπέρμα" strong="G46900" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/children" \w*.
 \w ἔσχατον|lemma="ἔσχατον" strong="G20790" x-morph="Gr,D,,,,,,,,S"\w*
 \w πάντων|lemma="πᾶς" strong="G39560" x-morph="Gr,RI,,,,GNP,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*,
