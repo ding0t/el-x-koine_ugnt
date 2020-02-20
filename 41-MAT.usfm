@@ -2009,7 +2009,7 @@
 \w μακάριοί|lemma="μακάριος" strong="G31070" x-morph="Gr,NP,,,,NMP," x-tw="rc://*/tw/dict/bible/kt/bless" \w*
 \w ἐστε|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA2,,P,"\w*
 \w ὅταν|lemma="ὅταν" strong="G37520" x-morph="Gr,CS,,,,,,,,"\w*
-\w ὀνειδίσωσιν|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,SAA3,,P," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ὀνειδίσωσιν|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,SAA3,,P," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w διώξωσιν|lemma="διώκω" strong="G13770" x-morph="Gr,V,SAA3,,P," x-tw="rc://*/tw/dict/bible/other/persecute" \w*
@@ -6694,7 +6694,7 @@
 \v 20
 \w τότε|lemma="τότε" strong="G51190" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἤρξατο|lemma="ἄρχω" strong="G07570" x-morph="Gr,V,IAM3,,S,"\w*
-\w ὀνειδίζειν|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,NPA,,,,," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ὀνειδίζειν|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,NPA,,,,," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w τὰς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFP,"\w*
 \w πόλεις|lemma="πόλις" strong="G41720" x-morph="Gr,N,,,,,AFP,"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
@@ -20090,7 +20090,7 @@
 \w συνσταυρωθέντες|lemma="συνσταυρόω" strong="G49570" x-morph="Gr,V,PAP,NMP," x-tw="rc://*/tw/dict/bible/kt/crucify" \w*
 \w σὺν|lemma="σύν" strong="G48620" x-morph="Gr,P,,,,,D,,,"\w*
 \w αὐτῷ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMS,"\w*,
-\w ὠνείδιζον|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,IIA3,,P," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ὠνείδιζον|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,IIA3,,P," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w αὐτόν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3AMS,"\w*.
 
 \p

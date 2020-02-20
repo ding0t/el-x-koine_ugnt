@@ -610,7 +610,7 @@
 \w οὖν|lemma="οὖν" strong="G37670" x-morph="Gr,CC,,,,,,,,"\w*
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \w ἐπίσκοπον|lemma="ἐπίσκοπος" strong="G19850" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/overseer" \w*
-\w ἀνεπίλημπτον|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,NS,,,,AMS," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ἀνεπίλημπτον|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,NS,,,,AMS," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w εἶναι|lemma="εἰμί" strong="G15100" x-morph="Gr,V,NPA,,,,,"\w*,
 \w μιᾶς|lemma="εἷς" strong="G15200" x-morph="Gr,EN,,,,GFS,"\w*
 \w γυναικὸς|lemma="γυνή" strong="G11350" x-morph="Gr,N,,,,,GFS,"\w*
@@ -685,7 +685,7 @@
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
-\w ὀνειδισμὸν|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/disgrace" \w*
+\w ὀνειδισμὸν|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w ἐμπέσῃ|lemma="ἐμπίπτω" strong="G17060" x-morph="Gr,V,SAA3,,S,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w παγίδα|lemma="παγίς" strong="G38030" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/snare" \w*
@@ -1188,7 +1188,7 @@
 \w ταῦτα|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANP,"\w*
 \w παράγγελλε|lemma="παραγγέλλω" strong="G38530" x-morph="Gr,V,MPA2,,S," x-tw="rc://*/tw/dict/bible/kt/command" \w*,
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
-\w ἀνεπίλημπτοι|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,NP,,,,NMP," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ἀνεπίλημπτοι|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,NP,,,,NMP," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w ὦσιν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,SPA3,,P,"\w*.
 
 \v 8
@@ -1302,7 +1302,7 @@
 \w διδόναι|lemma="δίδωμι" strong="G13250" x-morph="Gr,V,NPA,,,,,"\w*
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,DMS,"\w*
 \w ἀντικειμένῳ|lemma="ἀντίκειμαι" strong="G04800" x-morph="Gr,V,PPM,DMS,"\w*
-\w λοιδορίας|lemma="λοιδορία" strong="G30590" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w λοιδορίας|lemma="λοιδορία" strong="G30590" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w χάριν|lemma="χάριν" strong="G54840" x-morph="Gr,PI,,,,G,,,"\w*.
 
 \v 15
@@ -1741,7 +1741,7 @@
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w ἐντολὴν|lemma="ἐντολή" strong="G17850" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/command" \w*
 \w ἄσπιλον|lemma="ἄσπιλος" strong="G07840" x-morph="Gr,NP,,,,AFS,"\w*
-\w ἀνεπίλημπτον|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,NP,,,,AFS," x-tw="rc://*/tw/dict/bible/other/reproach" \w*,
+\w ἀνεπίλημπτον|lemma="ἀνεπίλημπτος" strong="G04230" x-morph="Gr,NP,,,,AFS," x-tw="rc://*/tw/dict/bible/other/shame" \w*,
 \w μέχρι|lemma="μέχρι" strong="G33600" x-morph="Gr,PI,,,,G,,,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
 \w ἐπιφανείας|lemma="ἐπιφάνεια" strong="G20150" x-morph="Gr,N,,,,,GFS,"\w*

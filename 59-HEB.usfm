@@ -3846,7 +3846,7 @@
 \v 33
 \w τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*
 \w μὲν|lemma="μέν" strong="G33030" x-morph="Gr,DO,,,,,,,,"\w*
-\w ὀνειδισμοῖς|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,DMP," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ὀνειδισμοῖς|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,DMP," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w τε|lemma="τέ" strong="G50370" x-morph="Gr,DO,,,,,,,,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CO,,,,,,,,"\w*
 \w θλίψεσιν|lemma="θλῖψις" strong="G23470" x-morph="Gr,N,,,,,DFP," x-tw="rc://*/tw/dict/bible/other/tribulation" \w*
@@ -4434,7 +4434,7 @@
 \w Αἰγύπτου|lemma="Αἴγυπτος" strong="G01250" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/names/egypt" \w*
 \w θησαυρῶν|lemma="θησαυρός" strong="G23440" x-morph="Gr,N,,,,,GMP,"\w*,
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
-\w ὀνειδισμὸν|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/disgrace" \w*
+\w ὀνειδισμὸν|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
 \w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ" \w*,
 \w ἀπέβλεπεν|lemma="ἀποβλέπω" strong="G05780" x-morph="Gr,V,IIA3,,S,"\w*
@@ -5432,7 +5432,7 @@
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
 \w παρεμβολῆς|lemma="παρεμβολή" strong="G39250" x-morph="Gr,N,,,,,GFS,"\w*,
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
-\w ὀνειδισμὸν|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ὀνειδισμὸν|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMS,"\w*
 \w φέροντες|lemma="φέρω" strong="G53420" x-morph="Gr,V,PPA,NMP," x-tw="rc://*/tw/dict/bible/other/bear" \w*;
 

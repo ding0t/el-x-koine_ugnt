@@ -5945,7 +5945,7 @@
 \v 33
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w τῇ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DFS,"\w*
-\w ταπεινώσει|lemma="ταπείνωσις" strong="G50140" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/humiliate" \w*,
+\w ταπεινώσει|lemma="ταπείνωσις" strong="G50140" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/shame" \w*,
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w κρίσις|lemma="κρίσις" strong="G29200" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/judge" \w*
 \w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMS,"\w*

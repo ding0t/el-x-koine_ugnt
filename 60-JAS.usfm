@@ -84,7 +84,7 @@
 \w ἁπλῶς|lemma="ἁπλῶς" strong="G05740" x-morph="Gr,D,,,,,,,,,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
-\w ὀνειδίζοντος|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,PPA,GMS," x-tw="rc://*/tw/dict/bible/other/reproach" \w*,
+\w ὀνειδίζοντος|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,PPA,GMS," x-tw="rc://*/tw/dict/bible/other/shame" \w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w δοθήσεται|lemma="δίδωμι" strong="G13250" x-morph="Gr,V,IFP3,,S,"\w*
 \w αὐτῷ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMS,"\w*.

@@ -7079,9 +7079,9 @@
 \w καθὼς|lemma="καθώς" strong="G25310" x-morph="Gr,D,,,,,,,,," x-tw="rc://*/tw/dict/bible/other/like" \w*
 \w γέγραπται|lemma="γράφω" strong="G11250" x-morph="Gr,V,IEP3,,S," x-tw="rc://*/tw/dict/bible/other/written" \w*,
 \w οἱ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMP,"\w*
-\w ὀνειδισμοὶ|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ὀνειδισμοὶ|lemma="ὀνειδισμός" strong="G36800" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,GMP,"\w*
-\w ὀνειδιζόντων|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,PPA,GMP," x-tw="rc://*/tw/dict/bible/other/reproach" \w*
+\w ὀνειδιζόντων|lemma="ὀνειδίζω" strong="G36790" x-morph="Gr,V,PPA,GMP," x-tw="rc://*/tw/dict/bible/other/shame" \w*
 \w σε|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,S,"\w*,
 \w ἐπέπεσαν|lemma="ἐπιπίπτω" strong="G19680" x-morph="Gr,V,IAA3,,P,"\w*
 \w ἐπ’|lemma="ἐπί" strong="G19090" x-morph="Gr,P,,,,,A,,,"\w*
