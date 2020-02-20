@@ -77,7 +77,7 @@
 \w ποιεῖς|lemma="ποιέω" strong="G41600" x-morph="Gr,V,IPA2,,S,"\w*
 \w ὃ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,ANS,"\w*,
 \w ἐὰν|lemma="ἐάν" strong="G14370" x-morph="Gr,T,,,,,,,,,"\w*
-\w ἐργάσῃ|lemma="ἐργάζομαι" strong="G20380" x-morph="Gr,V,SAM2,,S," x-tw="rc://*/tw/dict/bible/other/labor" \w*
+\w ἐργάσῃ|lemma="ἐργάζομαι" strong="G20380" x-morph="Gr,V,SAM2,,S," \w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w τοὺς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMP,"\w*
 \w ἀδελφοὺς|lemma="ἀδελφός" strong="G00800" x-morph="Gr,N,,,,,AMP," x-tw="rc://*/tw/dict/bible/kt/brother" \w*
