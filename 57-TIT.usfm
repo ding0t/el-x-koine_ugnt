@@ -363,7 +363,7 @@
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
 \w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god" \w*
 \k-e\*
-\w βλασφημῆται|lemma="βλασφημέω" strong="G09870" x-morph="Gr,V,SPP3,,S," x-tw="rc://*/tw/dict/bible/kt/blasphemy" \w*.
+\w βλασφημῆται|lemma="βλασφημέω" strong="G09870" x-morph="Gr,V,SPP3,,S," x-tw="rc://*/tw/dict/bible/other/slander" \w*.
 
 \p
 \v 6
@@ -543,7 +543,7 @@
 
 \v 2
 \w μηδένα|lemma="μηδείς" strong="G33670" x-morph="Gr,RI,,,,AMS,"\w*
-\w βλασφημεῖν|lemma="βλασφημέω" strong="G09870" x-morph="Gr,V,NPA,,,,," x-tw="rc://*/tw/dict/bible/kt/blasphemy" \w*,
+\w βλασφημεῖν|lemma="βλασφημέω" strong="G09870" x-morph="Gr,V,NPA,,,,," x-tw="rc://*/tw/dict/bible/other/slander" \w*,
 \w ἀμάχους|lemma="ἄμαχος" strong="G02690" x-morph="Gr,NP,,,,AMP," x-tw="rc://*/tw/dict/bible/other/peace" \w*
 \w εἶναι|lemma="εἰμί" strong="G15100" x-morph="Gr,V,NPA,,,,,"\w*,
 \w ἐπιεικεῖς|lemma="ἐπιεικής" strong="G19330" x-morph="Gr,NP,,,,AMP,"\w*,
