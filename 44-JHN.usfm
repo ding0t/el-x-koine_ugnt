@@ -14667,7 +14667,7 @@
 \v 5
 \w ἀπεκρίθησαν|lemma="ἀποκρίνω" strong="G06110" x-morph="Gr,V,IAP3,,P,"\w*
 \w αὐτῷ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMS,"\w*,
-\w Ἰησοῦν|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,AMS,"x-tw="rc://*/tw/dict/bible/kt/jesus"\w*
+\k-s |x-tw="rc://*/tw/dict/bible/kt/jesus"\*\w Ἰησοῦν|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,AMS,"\w*
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \w Ναζωραῖον|lemma="Ναζωραῖος" strong="G34800" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/names/nazareth"\w*.
 \k-e\*
