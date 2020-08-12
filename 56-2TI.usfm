@@ -1376,7 +1376,7 @@
 \w σώσει|lemma="σῴζω" strong="G49820" x-morph="Gr,V,IFA3,,S," x-tw="rc://*/tw/dict/bible/kt/save"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
-\k-s |x-tw="rc://*/tw/dict/bible/kt/kingdomofgod"\*\w βασιλείαν|lemma="βασιλεία" strong="G09320" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/kingdom"\w*
+\k-s |x-tw="rc://*/tw/dict/bible/kt/kingdomofgod"\*\w βασιλείαν|lemma="βασιλεία" strong="G09320" x-morph="Gr,N,,,,,AFS,"\w*
 \w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMS,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w ἐπουράνιον|lemma="ἐπουράνιος" strong="G20320" x-morph="Gr,AR,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/heaven"\w*;

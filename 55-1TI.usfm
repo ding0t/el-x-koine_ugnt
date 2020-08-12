@@ -615,7 +615,7 @@
 
 \v 3
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
-\w πάροινον|lemma="πάροινος" strong="G39430" x-morph="Gr,NS,,,,AMS," x-tw="rc://*/tw/dict/bible/other/wine"\w*,
+\w πάροινον|lemma="πάροινος" strong="G39430" x-morph="Gr,NS,,,,AMS,"\w*,
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,DO,,,,,,,,"\w*
 \w πλήκτην|lemma="πλήκτης" strong="G41310" x-morph="Gr,N,,,,,AMS,"\w*,
 \w ἀλλὰ|lemma="ἀλλά" strong="G02350" x-morph="Gr,CO,,,,,,,,"\w*

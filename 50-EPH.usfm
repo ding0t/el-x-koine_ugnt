@@ -800,7 +800,7 @@
 \v 17
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἐλθὼν|lemma="ἔρχομαι" strong="G20640" x-morph="Gr,V,PAA,NMS,"\w*,
-\w εὐηγγελίσατο|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,IAM3,,S," x-tw="rc://*/tw/dict/bible/other/preach"\w*
+\w εὐηγγελίσατο|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,IAM3,,S," x-tw="rc://*/tw/dict/bible/kt/goodnews"\w*
 \w εἰρήνην|lemma="εἰρήνη" strong="G15150" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/peace"\w*
 \w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*
 \w τοῖς|lemma="ὁ" strong="G35880" x-morph="Gr,RR,,,,DMP,"\w*
@@ -1020,7 +1020,7 @@
 \w αὕτη|lemma="οὗτος" strong="G37780" x-morph="Gr,ED,,,,NFS,"\w*,
 \w τοῖς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DNP,"\w*
 \w ἔθνεσιν|lemma="ἔθνος" strong="G14840" x-morph="Gr,N,,,,,DNP," x-tw="rc://*/tw/dict/bible/kt/gentile"\w*
-\w εὐαγγελίσασθαι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,NAM,,,,," x-tw="rc://*/tw/dict/bible/other/preach"\w*,
+\w εὐαγγελίσασθαι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,NAM,,,,," x-tw="rc://*/tw/dict/bible/kt/goodnews"\w*,
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
 \w ἀνεξιχνίαστον|lemma="ἀνεξιχνίαστος" strong="G04210" x-morph="Gr,AA,,,,ANS,"\w*
 \w πλοῦτος|lemma="πλοῦτος" strong="G41490" x-morph="Gr,N,,,,,ANS,"\w*
@@ -1921,7 +1921,7 @@
 \w μηδεὶς|lemma="μηδείς" strong="G33670" x-morph="Gr,RI,,,,NMS,"\w*
 \w ὑμᾶς|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,P,"\w*
 \w ἀπατάτω|lemma="ἀπατάω" strong="G05380" x-morph="Gr,V,MPA3,,S," x-tw="rc://*/tw/dict/bible/other/deceive"\w*
-\w κενοῖς|lemma="κενός" strong="G27560" x-morph="Gr,AA,,,,DMP," x-tw="rc://*/tw/dict/bible/other/vain"\w*
+\w κενοῖς|lemma="κενός" strong="G27560" x-morph="Gr,AA,,,,DMP,"\w*
 \w λόγοις|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,DMP,"\w*
 \w διὰ|lemma="διά" strong="G12230" x-morph="Gr,P,,,,,A,,,"\w*
 \w ταῦτα|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANP,"\w*,

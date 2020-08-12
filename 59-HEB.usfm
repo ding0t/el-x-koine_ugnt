@@ -998,7 +998,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
 \w γάρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἐσμεν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA1,,P,"\w*
-\w εὐηγγελισμένοι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,PEP,NMP," x-tw="rc://*/tw/dict/bible/other/preach"\w*
+\w εὐηγγελισμένοι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,PEP,NMP," x-tw="rc://*/tw/dict/bible/kt/goodnews"\w*
 \w καθάπερ|lemma="καθάπερ" strong="G25090" x-morph="Gr,D,,,,,,,,,"\w*
 \w κἀκεῖνοι|lemma="κἀκεῖνος" strong="G25480" x-morph="Gr,RD,,,,NMP,"\w*;
 \w ἀλλ’|lemma="ἀλλά" strong="G02350" x-morph="Gr,CC,,,,,,,,"\w*
@@ -1092,7 +1092,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w οἱ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMP,"\w*
 \w πρότερον|lemma="πρότερον" strong="G43860" x-morph="Gr,D,,,,,,,,C"\w*
-\w εὐαγγελισθέντες|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,PAP,NMP," x-tw="rc://*/tw/dict/bible/other/preach"\w*,
+\w εὐαγγελισθέντες|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,PAP,NMP," x-tw="rc://*/tw/dict/bible/kt/goodnews"\w*,
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w εἰσῆλθον|lemma="εἰσέρχομαι" strong="G15250" x-morph="Gr,V,IAA3,,P,"\w*
 \w δι’|lemma="διά" strong="G12230" x-morph="Gr,P,,,,,A,,,"\w*
@@ -3108,7 +3108,7 @@
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \k-s |x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\*\w νόμον|lemma="νόμος" strong="G35510" x-morph="Gr,N,,,,,AMS,"\w*
 \w ὑπὸ|lemma="ὑπό" strong="G52590" x-morph="Gr,P,,,,,G,,,"\w*
-\w Μωϋσέως|lemma="Μωϋσῆς" strong="G34750" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/names/moses"\w*
+\w Μωϋσέως|lemma="Μωϋσῆς" strong="G34750" x-morph="Gr,N,,,,,GMS,"\w*
 \k-e\*
 \w παντὶ|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,DMS,"\w*
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DMS,"\w*
@@ -3761,7 +3761,7 @@
 \w ἀθετήσας|lemma="ἀθετέω" strong="G01140" x-morph="Gr,V,PAA,NMS," x-tw="rc://*/tw/dict/bible/other/reject"\w*
 \w τις|lemma="τις" strong="G51000" x-morph="Gr,RI,,,,NMS,"\w*
 \k-s |x-tw="rc://*/tw/dict/bible/kt/lawofmoses"\*\w νόμον|lemma="νόμος" strong="G35510" x-morph="Gr,N,,,,,AMS,"\w*
-\w Μωϋσέως|lemma="Μωϋσῆς" strong="G34750" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/names/moses"\w*
+\w Μωϋσέως|lemma="Μωϋσῆς" strong="G34750" x-morph="Gr,N,,,,,GMS,"\w*
 \k-e\*
 \w χωρὶς|lemma="χωρίς" strong="G55650" x-morph="Gr,PI,,,,G,,,"\w*
 \w οἰκτιρμῶν|lemma="οἰκτιρμός" strong="G36280" x-morph="Gr,N,,,,,GMP," x-tw="rc://*/tw/dict/bible/kt/mercy"\w*

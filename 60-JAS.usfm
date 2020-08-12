@@ -1381,7 +1381,7 @@
 \w ἢ|lemma="ἤ" strong="G22280" x-morph="Gr,CC,,,,,,,,"\w*
 \w δοκεῖτε|lemma="δοκέω" strong="G13800" x-morph="Gr,V,IPA2,,P,"\w*
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
-\w κενῶς|lemma="κενῶς" strong="G27610" x-morph="Gr,D,,,,,,,,," x-tw="rc://*/tw/dict/bible/other/vain"\w*
+\w κενῶς|lemma="κενῶς" strong="G27610" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w Γραφὴ|lemma="γραφή" strong="G11240" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/wordofgod"\w*
 \w λέγει|lemma="λέγω" strong="G30040" x-morph="Gr,V,IPA3,,S,"\w*,

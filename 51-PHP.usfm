@@ -852,11 +852,11 @@
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,DO,,,,,,,,"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
-\w κενὸν|lemma="κενός" strong="G27560" x-morph="Gr,NS,,,,ANS," x-tw="rc://*/tw/dict/bible/other/vain"\w*
+\w κενὸν|lemma="κενός" strong="G27560" x-morph="Gr,NS,,,,ANS,"\w*
 \w ἔδραμον|lemma="τρέχω" strong="G51430" x-morph="Gr,V,IAA1,,S," x-tw="rc://*/tw/dict/bible/other/run"\w*,
 \w οὐδὲ|lemma="οὐδέ" strong="G37610" x-morph="Gr,CO,,,,,,,,"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
-\w κενὸν|lemma="κενός" strong="G27560" x-morph="Gr,NS,,,,ANS," x-tw="rc://*/tw/dict/bible/other/vain"\w*
+\w κενὸν|lemma="κενός" strong="G27560" x-morph="Gr,NS,,,,ANS,"\w*
 \w ἐκοπίασα|lemma="κοπιάω" strong="G28720" x-morph="Gr,V,IAA1,,S," x-tw="rc://*/tw/dict/bible/other/labor"\w*,
 
 \v 17

@@ -1987,7 +1987,7 @@
 \w παρακαλοῦμεν|lemma="παρακαλέω" strong="G38700" x-morph="Gr,V,IPA1,,P," x-tw="rc://*/tw/dict/bible/kt/exhort"\w*
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
-\w κενὸν|lemma="κενός" strong="G27560" x-morph="Gr,NS,,,,ANS," x-tw="rc://*/tw/dict/bible/other/vain"\w*
+\w κενὸν|lemma="κενός" strong="G27560" x-morph="Gr,NS,,,,ANS,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w χάριν|lemma="χάρις" strong="G54850" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/grace"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
@@ -3750,7 +3750,7 @@
 \w τὰ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,ANP,"\w*
 \w ὑπερέκεινα|lemma="ὑπερέκεινα" strong="G52380" x-morph="Gr,PI,,,,G,,,"\w*
 \w ὑμῶν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2G,P,"\w*
-\w εὐαγγελίσασθαι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,NAM,,,,," x-tw="rc://*/tw/dict/bible/other/preach"\w*,
+\w εὐαγγελίσασθαι|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,NAM,,,,," x-tw="rc://*/tw/dict/bible/kt/goodnews"\w*,
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w ἀλλοτρίῳ|lemma="ἀλλότριος" strong="G02450" x-morph="Gr,EF,,,,DMS,"\w*
@@ -3918,7 +3918,7 @@
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
 \w Θεοῦ|lemma="θεός" strong="G23160" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/god"\w*
 \w εὐαγγέλιον|lemma="εὐαγγέλιον" strong="G20980" x-morph="Gr,N,,,,,ANS," x-tw="rc://*/tw/dict/bible/kt/goodnews"\w*
-\w εὐηγγελισάμην|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,IAM1,,S," x-tw="rc://*/tw/dict/bible/other/preach"\w*
+\w εὐηγγελισάμην|lemma="εὐαγγελίζω" strong="G20970" x-morph="Gr,V,IAM1,,S," x-tw="rc://*/tw/dict/bible/kt/goodnews"\w*
 \w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*?
 
 \v 8
