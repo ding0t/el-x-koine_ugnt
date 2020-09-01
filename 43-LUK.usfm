@@ -4153,7 +4153,6 @@
 \w λέπρας|lemma="λέπρα" strong="G30140" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/leprosy"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἰδὼν|lemma="ὁράω" strong="G37080" x-morph="Gr,V,PAA,NMS,"\w*
-\w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \w Ἰησοῦν|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/jesus"\w*,
 \w πεσὼν|lemma="πίπτω" strong="G40980" x-morph="Gr,V,PAA,NMS," x-tw="rc://*/tw/dict/bible/other/bow"\w*
