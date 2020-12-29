@@ -583,7 +583,7 @@
 \w ἀνεπαίσχυντον|lemma="ἀνεπαίσχυντος" strong="G04220" x-morph="Gr,AA,,,,AMS," x-tw="rc://*/tw/dict/bible/other/shame"\w*,
 \w ὀρθοτομοῦντα|lemma="ὀρθοτομέω" strong="G37180" x-morph="Gr,V,PPA,AMS,"\w*
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
-\k-s |x-tw="rc://*/tw/dict/bible/kt/wordofgod"\*\w λόγος|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,NMS,"\w*
+\k-s |x-tw="rc://*/tw/dict/bible/kt/wordofgod"\*\w λόγον|lemma="λόγος" strong="G30560" x-morph="Gr,N,,,,,NMS,"\w*
 \w τῆς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GFS,"\w*
 \w ἀληθείας|lemma="ἀλήθεια" strong="G02250" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/true"\w*.
 \k-e\*
