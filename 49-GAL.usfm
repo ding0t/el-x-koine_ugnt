@@ -227,7 +227,7 @@
 \w δι’|lemma="διά" strong="G12230" x-morph="Gr,P,,,,,G,,,"\w*
 \w ἀποκαλύψεως|lemma="ἀποκάλυψις" strong="G06020" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*
 \w Ἰησοῦ|lemma="Ἰησοῦς" strong="G24240" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/jesus"\w*
-\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ"\w*.	
+\w Χριστοῦ|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,GMS," x-tw="rc://*/tw/dict/bible/kt/christ"\w*.
 
 
 \p
@@ -917,7 +917,7 @@
 \v 4
 \w τοσαῦτα|lemma="τοσοῦτος" strong="G51180" x-morph="Gr,RD,,,,ANP,"\w*
 \w ἐπάθετε|lemma="πάσχω" strong="G39580" x-morph="Gr,V,IAA2,,P," x-tw="rc://*/tw/dict/bible/other/suffer"\w*
-\w εἰκῇ|lemma="εἰκῇ" strong="G15000" x-morph="Gr,D,,,,,,,,," x-tw="rc://*/tw/dict/bible/other/vain"\w*–
+\w εἰκῇ|lemma="εἰκῇ" strong="G15000" x-morph="Gr,D,,,,,,,,," x-tw="rc://*/tw/dict/bible/other/vain"\w*—
 \w εἴ|lemma="εἰ" strong="G14870" x-morph="Gr,CS,,,,,,,,"\w*
 \w γε|lemma="γέ" strong="G10650" x-morph="Gr,T,,,,,,,,,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
@@ -1692,7 +1692,7 @@
 \w μορφωθῇ|lemma="μορφόω" strong="G34450" x-morph="Gr,V,SAP3,,S,"\w*
 \w Χριστὸς|lemma="χριστός" strong="G55470" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/christ"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
-\w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*–
+\w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*—
 
 \v 20
 \w ἤθελον|lemma="θέλω" strong="G23090" x-morph="Gr,V,IIA1,,S,"\w*

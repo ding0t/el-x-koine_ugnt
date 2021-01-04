@@ -1953,7 +1953,7 @@
 \w ἔνοχός|lemma="ἔνοχος" strong="G17770" x-morph="Gr,NP,,,,NMS," x-tw="rc://*/tw/dict/bible/kt/guilt"\w*
 \w ἐστιν|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IPA3,,S,"\w*
 \w αἰωνίου|lemma="αἰώνιος" strong="G01660" x-morph="Gr,AA,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/eternity"\w*
-\w ἁμαρτήματος|lemma="ἁμάρτημα" strong="G02650" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/sin"\w*–
+\w ἁμαρτήματος|lemma="ἁμάρτημα" strong="G02650" x-morph="Gr,N,,,,,GNS," x-tw="rc://*/tw/dict/bible/kt/sin"\w*—
 
 \v 30
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
@@ -2569,7 +2569,7 @@
 \w σπόρος|lemma="σπόρος" strong="G47030" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/other/seed"\w*
 \w βλαστᾷ|lemma="βλαστάω" strong="G09850" x-morph="Gr,V,SPA3,,S,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w μηκύνηται|lemma="μηκύνω" strong="G33730" x-morph="Gr,V,SPM3,,S,"\w*–
+\w μηκύνηται|lemma="μηκύνω" strong="G33730" x-morph="Gr,V,SPM3,,S,"\w*—
 \w ὡς|lemma="ὡς" strong="G56130" x-morph="Gr,D,,,,,,,,,"\w*
 \w οὐκ|lemma="οὐ" strong="G37560" x-morph="Gr,D,,,,,,,,,"\w*
 \w οἶδεν|lemma="οἶδα" strong="G14920" x-morph="Gr,V,IEA3,,S," x-tw="rc://*/tw/dict/bible/other/know"\w*

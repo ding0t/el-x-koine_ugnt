@@ -769,7 +769,7 @@
 \w προσήλυτοι|lemma="προσήλυτος" strong="G43390" x-morph="Gr,N,,,,,NMP,"\w*,
 \w Κρῆτες|lemma="Κρής" strong="G29120" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/names/crete"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w Ἄραβες|lemma="Ἄραψ" strong="G06900" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/names/arabia"\w*–
+\w Ἄραβες|lemma="Ἄραψ" strong="G06900" x-morph="Gr,N,,,,,NMP," x-tw="rc://*/tw/dict/bible/names/arabia"\w*—
 \w ἀκούομεν|lemma="ἀκούω" strong="G01910" x-morph="Gr,V,IPA1,,P,"\w*
 \w λαλούντων|lemma="λαλέω" strong="G29800" x-morph="Gr,V,PPA,GMP,"\w*
 \w αὐτῶν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMP,"\w*,
@@ -1634,7 +1634,7 @@
 \w ἔχω|lemma="ἔχω" strong="G21920" x-morph="Gr,V,IPA1,,S,"\w*,
 \w τοῦτό|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*
 \w σοι|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,S,"\w*
-\w δίδωμι|lemma="δίδωμι" strong="G13250" x-morph="Gr,V,IPA1,,S,"\w*–
+\w δίδωμι|lemma="δίδωμι" strong="G13250" x-morph="Gr,V,IPA1,,S,"\w*—
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DNS,"\w*
 \w ὀνόματι|lemma="ὄνομα" strong="G36860" x-morph="Gr,N,,,,,DNS," x-tw="rc://*/tw/dict/bible/kt/name"\w*
@@ -9512,7 +9512,7 @@
 \w κατεκληρονόμησεν|lemma="κατακληρονομέω" strong="G26240" x-morph="Gr,V,IAA3,,S," x-tw="rc://*/tw/dict/bible/kt/inherit"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w γῆν|lemma="γῆ" strong="G10930" x-morph="Gr,N,,,,,AFS,"\w*
-\w αὐτῶν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMP,"\w*–
+\w αὐτῶν|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMP,"\w*—
 
 \v 20
 \w ὡς|lemma="ὡς" strong="G56130" x-morph="Gr,D,,,,,,,,,"\w*
@@ -11153,7 +11153,7 @@
 \w τῷ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,DMS,"\w*
 \w Παύλῳ|lemma="Παῦλος" strong="G39720" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/names/paul"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w Βαρναβᾷ|lemma="Βαρναβᾶς" strong="G09210" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/names/barnabas"\w*–
+\w Βαρναβᾷ|lemma="Βαρναβᾶς" strong="G09210" x-morph="Gr,N,,,,,DMS," x-tw="rc://*/tw/dict/bible/names/barnabas"\w*—
 \w Ἰούδαν|lemma="Ἰούδας" strong="G24550" x-morph="Gr,N,,,,,AMS,"\w*
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,AMS,"\w*
 \w καλούμενον|lemma="καλέω" strong="G25640" x-morph="Gr,V,PPP,AMS," x-tw="rc://*/tw/dict/bible/kt/call"\w*

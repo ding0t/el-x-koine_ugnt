@@ -2379,7 +2379,7 @@
 \w ἀλλ’|lemma="ἀλλά" strong="G02350" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w παντὶ|lemma="πᾶς" strong="G39560" x-morph="Gr,RI,,,,DNS,"\w*
-\w θλιβόμενοι|lemma="θλίβω" strong="G23460" x-morph="Gr,V,PPP,NMP,"\w*–
+\w θλιβόμενοι|lemma="θλίβω" strong="G23460" x-morph="Gr,V,PPP,NMP,"\w*—
 \w ἔξωθεν|lemma="ἔξωθεν" strong="G18550" x-morph="Gr,D,,,,,,,,,"\w*
 \w μάχαι|lemma="μάχη" strong="G31630" x-morph="Gr,N,,,,,NFP,"\w*,
 \w ἔσωθεν|lemma="ἔσωθεν" strong="G20810" x-morph="Gr,D,,,,,,,,,"\w*
@@ -4607,7 +4607,7 @@
 \w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w πάσῃ|lemma="πᾶς" strong="G39560" x-morph="Gr,EQ,,,,DFS,"\w*
-\w ὑπομονῇ|lemma="ὑπομονή" strong="G52810" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/endure"\w*–
+\w ὑπομονῇ|lemma="ὑπομονή" strong="G52810" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/other/endure"\w*—
 \w σημείοις|lemma="σημεῖον" strong="G45920" x-morph="Gr,N,,,,,DNP," x-tw="rc://*/tw/dict/bible/kt/sign"\w*
 \w τε|lemma="τέ" strong="G50370" x-morph="Gr,CC,,,,,,,,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
