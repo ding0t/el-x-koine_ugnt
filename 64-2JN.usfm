@@ -98,7 +98,7 @@
 \v 5
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w νῦν|lemma="νῦν" strong="G35680" x-morph="Gr,D,,,,,,,,,"\w*
-\w ἐρωτῶ|lemma="ἐρωτάω" strong="G20650" x-morph="Gr,V,IPA1,,S," x-tw="rc://*/tw/dict/bible/other/plead"\w*
+\w ἐρωτῶ|lemma="ἐρωτάω" strong="G20650" x-morph="Gr,V,IPA1,,S,"\w*
 \w σε|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,S,"\w*,
 \w κυρία|lemma="κυρία" strong="G29590" x-morph="Gr,N,,,,,VFS,"\w*,
 \w οὐχ|lemma="οὐ" strong="G37560" x-morph="Gr,DO,,,,,,,,"\w*
@@ -170,7 +170,7 @@
 \w ἑαυτούς|lemma="ἑαυτοῦ" strong="G14380" x-morph="Gr,RE,,,2AMP,"\w*,
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,DO,,,,,,,,"\w*
-\w ἀπολέσητε|lemma="ἀπόλλυμι" strong="G06220" x-morph="Gr,V,SAA2,,P," x-tw="rc://*/tw/dict/bible/kt/perish"\w*
+\w ἀπολέσητε|lemma="ἀπόλλυμι" strong="G06220" x-morph="Gr,V,SAA2,,P,"\w*
 \w ἃ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,ANP,"\w*
 \w εἰργασάμεθα|lemma="ἐργάζομαι" strong="G20380" x-morph="Gr,V,IAM1,,P," x-tw="rc://*/tw/dict/bible/other/labor"\w*,
 \w ἀλλὰ|lemma="ἀλλά" strong="G02350" x-morph="Gr,CO,,,,,,,,"\w*
@@ -181,7 +181,7 @@
 \v 9
 \w πᾶς|lemma="πᾶς" strong="G39560" x-morph="Gr,RI,,,,NMS,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
-\w προάγων|lemma="προάγω" strong="G42540" x-morph="Gr,V,PPA,NMS," x-tw="rc://*/tw/dict/bible/kt/transgression"\w*
+\w προάγων|lemma="προάγω" strong="G42540" x-morph="Gr,V,PPA,NMS,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w μὴ|lemma="μή" strong="G33610" x-morph="Gr,D,,,,,,,,,"\w*
 \w μένων|lemma="μένω" strong="G33060" x-morph="Gr,V,PPA,NMS,"\w*
