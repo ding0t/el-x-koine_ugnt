@@ -11310,7 +11310,7 @@
 \w συναγαγόντες|lemma="συνάγω" strong="G48630" x-morph="Gr,V,PAA,NMP," x-tw="rc://*/tw/dict/bible/other/assembly"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,ANS,"\w*
 \w πλῆθος|lemma="πλῆθος" strong="G41280" x-morph="Gr,N,,,,,ANS,"\w*,
-\w ἐπέδωκαν|lemma="ἐπιδίδωμι" strong="G19290" x-morph="Gr,V,IAA3,,P,""\w*
+\w ἐπέδωκαν|lemma="ἐπιδίδωμι" strong="G19290" x-morph="Gr,V,IAA3,,P,"\w*
 \w τὴν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFS,"\w*
 \w ἐπιστολήν|lemma="ἐπιστολή" strong="G19920" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/letter"\w*.
 

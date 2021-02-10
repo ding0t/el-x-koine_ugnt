@@ -1503,7 +1503,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w κριτής|lemma="κριτής" strong="G29230" x-morph="Gr,N,,,,,NMS," x-tw="rc://*/tw/dict/bible/other/judgeposition"\w*,
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,NMS,"\w*
-\w δυνάμενος|lemma="δύναμαι" strong="G14100" x-morph="Gr,V,PPM,NMS,""\w*
+\w δυνάμενος|lemma="δύναμαι" strong="G14100" x-morph="Gr,V,PPM,NMS,"\w*
 \w σῶσαι|lemma="σῴζω" strong="G49820" x-morph="Gr,V,NAA,,,,," x-tw="rc://*/tw/dict/bible/kt/save"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἀπολέσαι|lemma="ἀπόλλυμι" strong="G06220" x-morph="Gr,V,NAA,,,,,"\w*.
