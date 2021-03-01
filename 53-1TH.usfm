@@ -877,9 +877,7 @@
 \w νυκτὸς|lemma="νύξ" strong="G35710" x-morph="Gr,N,,,,,GFS,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἡμέρας|lemma="ἡμέρα" strong="G22500" x-morph="Gr,N,,,,,GFS," x-tw="rc://*/tw/dict/bible/other/biblicaltimeday"\w*,
-\w ὑπέρ|lemma="ὑπέρ" strong="G52280" x-morph="Gr,P,,,,,G,,,"\w*
-\w ἐκ|lemma="ἐκ" strong="G15370" x-morph="Gr,P,,,,,G,,,"\w*
-\w περισσοῦ|lemma="περισσός" strong="G40530" x-morph="Gr,NS,,,,GNS,"\w*
+\w ὑπέρἐκπερισσοῦ|lemma="ὑπέρἐκπερισσόῦ" strong="G52380" x-morph="Gr,D,,,,,,,,,"\w*
 \w δεόμενοι|lemma="δέω" strong="G12100" x-morph="Gr,V,PPM,NMP," x-tw="rc://*/tw/dict/bible/other/plead"\w*
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w τὸ|lemma="ὁ" strong="G35880" x-morph="Gr,RD,,,,ANS,"\w*
@@ -1526,9 +1524,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἡγεῖσθαι|lemma="ἡγέομαι" strong="G22330" x-morph="Gr,V,NPM,,,,,"\w*
 \w αὐτοὺς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3AMP,"\w*
-\w ὑπέρ|lemma="ὑπέρ" strong="G52280" x-morph="Gr,P,,,,,G,,,"\w*
-\w ἐκ|lemma="ἐκ" strong="G15370" x-morph="Gr,P,,,,,G,,,"\w*
-\w περισσοῦ|lemma="περισσός" strong="G40530" x-morph="Gr,NS,,,,GNS,"\w*
+\w ὑπέρἐκπερισσοῦ|lemma="ὑπέρἐκπερισσόῦ" strong="G52380" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w ἀγάπῃ|lemma="ἀγάπη" strong="G00260" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/love"\w*,
 \w διὰ|lemma="διά" strong="G12230" x-morph="Gr,P,,,,,A,,,"\w*
