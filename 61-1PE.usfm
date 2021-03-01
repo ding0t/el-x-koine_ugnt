@@ -1271,7 +1271,7 @@
 \w σαρκὶ|lemma="σάρξ" strong="G45610" x-morph="Gr,N,,,,,DFS," x-tw="rc://*/tw/dict/bible/kt/flesh"\w*,
 \w ζῳοποιηθεὶς|lemma="ζῳοποιέω" strong="G22270" x-morph="Gr,V,PAP,NMS,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CO,,,,,,,,"\w*
-\w Πνεύματι|lemma="πνεῦμα" strong="G41510" x-morph="Gr,N,,,,,DNS," x-tw="rc://*/tw/dict/bible/kt/spirit"\w*;
+\w πνεύματι|lemma="πνεῦμα" strong="G41510" x-morph="Gr,N,,,,,DNS," x-tw="rc://*/tw/dict/bible/kt/spirit"\w*;
 
 \v 19
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
