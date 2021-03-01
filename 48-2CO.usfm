@@ -3874,8 +3874,7 @@
 \w μηδὲν|lemma="μηδείς" strong="G33670" x-morph="Gr,RI,,,,ANS,"\w*
 \w ὑστερηκέναι|lemma="ὑστερέω" strong="G53020" x-morph="Gr,V,NEA,,,,,"\w*
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMP,"\w*
-\w ὑπέρ|lemma="ὑπέρ" strong="G52280" x-morph="Gr,P,,,,,G,,,"\w*
-\w λίαν|lemma="λίαν" strong="G30290" x-morph="Gr,D,,,,,,,,,"\w*
+\w ὑπέρλίαν|lemma="ὑπέρλίαν" strong="G52440" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἀποστόλων|lemma="ἀπόστολος" strong="G06520" x-morph="Gr,N,,,,,GMP," x-tw="rc://*/tw/dict/bible/kt/apostle"\w*.
 
 \v 6
@@ -4584,8 +4583,7 @@
 \w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
 \w ὑστέρησα|lemma="ὑστερέω" strong="G53020" x-morph="Gr,V,IAA1,,S,"\w*
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMP,"\w*
-\w ὑπέρ|lemma="ὑπέρ" strong="G52280" x-morph="Gr,P,,,,,G,,,"\w*
-\w λίαν|lemma="λίαν" strong="G30290" x-morph="Gr,D,,,,,,,,,"\w*
+\w ὑπέρλίαν|lemma="ὑπέρλίαν" strong="G52440" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἀποστόλων|lemma="ἀπόστολος" strong="G06520" x-morph="Gr,N,,,,,GMP," x-tw="rc://*/tw/dict/bible/kt/apostle"\w*,
 \w εἰ|lemma="εἰ" strong="G14870" x-morph="Gr,CS,,,,,,,,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
