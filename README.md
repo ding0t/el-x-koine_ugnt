@@ -1,11 +1,12 @@
 <img src="https://cdn.door43.org/assets/uw-icons/logo-ugnt-256.png" alt="drawing" width="100"/>
+
 # unfoldingWord® Greek New Testament (UGNT)
 
 *An open-licensed, lexically tagged, morphologically parsed critical Greek New Testament with full apparatus. It enables the global Church to have access to the original texts of the New Testament.*
 
 ## Basis
 
-The UGNT text is based on the [Bunning Heuristic Prototype Greek New Testament (BHP)](https://git.door43.org/Door43/BHP). See the full rationale for the BHP text [here](https://git.door43.org/Door43/BHP/src/master/BHP.pdf). Also, see http://www.greekcntr.org for more information.
+The UGNT text is based on the [Bunning Heuristic Prototype Greek New Testament (BHP)](https://git.door43.org/Door43/BHP). See the full rationale for the BHP text [here](https://git.door43.org/Door43/BHP/src/master/BHP.pdf). Also, see https://www.greekcntr.org for more information.
 
 ## Changes from the BHP
 
