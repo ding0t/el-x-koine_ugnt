@@ -1888,8 +1888,7 @@
 \v 5
 \w τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*
 \w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
-\k-s |x-tw="rc://*/tw/dict/bible/other/know"\*
-\w ἴστε|lemma="εἴδω" strong="G14920" x-morph="Gr,V,MEA2,,P,"\w*,
+\k-s |x-tw="rc://*/tw/dict/bible/other/know"\*\w ἴστε|lemma="εἴδω" strong="G14920" x-morph="Gr,V,MEA2,,P,"\w*,
 \w γινώσκοντες|lemma="γινώσκω" strong="G10970" x-morph="Gr,V,PPA,NMP,"\w*
 \k-e\*
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
