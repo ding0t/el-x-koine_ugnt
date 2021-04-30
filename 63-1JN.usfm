@@ -38,7 +38,7 @@
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w ζωὴ|lemma="ζωή" strong="G22220" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/life"\w*
-\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*,
+\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
 \w ἑωράκαμεν|lemma="ὁράω" strong="G37080" x-morph="Gr,V,IEA1,,P,"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -56,7 +56,7 @@
 \w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
 \w Πατέρα|lemma="πατήρ" strong="G39620" x-morph="Gr,N,,,,,AMS," x-tw="rc://*/tw/dict/bible/kt/godthefather"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*
+\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S,"\w*
 \w ἡμῖν|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1D,P,"\w*—
 
 \v 3
@@ -862,7 +862,7 @@
 \w αὐτῷ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,,DMS,"\w*,
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w ἐὰν|lemma="ἐάν" strong="G14370" x-morph="Gr,CS,,,,,,,,"\w*
-\w φανερωθῇ|lemma="φανερόω" strong="G53190" x-morph="Gr,V,SAP3,,S," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*,
+\w φανερωθῇ|lemma="φανερόω" strong="G53190" x-morph="Gr,V,SAP3,,S,"\w*,
 \w σχῶμεν|lemma="ἔχω" strong="G21920" x-morph="Gr,V,SAA1,,P,"\w*
 \w παρρησίαν|lemma="παρρησία" strong="G39540" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/other/bold"\w*,
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
@@ -935,7 +935,7 @@
 \w οἴδαμεν|lemma="οἶδα" strong="G14920" x-morph="Gr,V,IEA1,,P," x-tw="rc://*/tw/dict/bible/other/know"\w*
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \w ἐὰν|lemma="ἐάν" strong="G14370" x-morph="Gr,CS,,,,,,,,"\w*
-\w φανερωθῇ|lemma="φανερόω" strong="G53190" x-morph="Gr,V,SAP3,,S," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*,
+\w φανερωθῇ|lemma="φανερόω" strong="G53190" x-morph="Gr,V,SAP3,,S,"\w*,
 \w ὅμοιοι|lemma="ὅμοιος" strong="G36640" x-morph="Gr,NP,,,,NMP," x-tw="rc://*/tw/dict/bible/other/like"\w*
 \w αὐτῷ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMS,"\w*
 \w ἐσόμεθα|lemma="εἰμί" strong="G15100" x-morph="Gr,V,IFM1,,P,"\w*,
@@ -985,7 +985,7 @@
 \w οἴδατε|lemma="οἶδα" strong="G14920" x-morph="Gr,V,IEA2,,P," x-tw="rc://*/tw/dict/bible/other/know"\w*
 \w ὅτι|lemma="ὅτι" strong="G37540" x-morph="Gr,CS,,,,,,,,"\w*
 \w ἐκεῖνος|lemma="ἐκεῖνος" strong="G15650" x-morph="Gr,RD,,,,NMS,"\w*
-\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*,
+\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S,"\w*,
 \w ἵνα|lemma="ἵνα" strong="G24430" x-morph="Gr,CS,,,,,,,,"\w*
 \w τὰς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AFP,"\w*
 \w ἁμαρτίας|lemma="ἁμαρτία" strong="G02660" x-morph="Gr,N,,,,,AFP," x-tw="rc://*/tw/dict/bible/kt/sin"\w*
@@ -1048,7 +1048,7 @@
 \w ἁμαρτάνει|lemma="ἁμαρτάνω" strong="G02640" x-morph="Gr,V,IPA3,,S," x-tw="rc://*/tw/dict/bible/kt/sin"\w*.
 \w εἰς|lemma="εἰς" strong="G15190" x-morph="Gr,P,,,,,A,,,"\w*
 \w τοῦτο|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,ANS,"\w*
-\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*
+\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
 \k-s |x-tw="rc://*/tw/dict/bible/kt/sonofgod"\*\w Υἱὸς|lemma="υἱός" strong="G52070" x-morph="Gr,N,,,,,NMS,"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
@@ -1608,7 +1608,7 @@
 \v 9
 \w ἐν|lemma="ἐν" strong="G17220" x-morph="Gr,P,,,,,D,,,"\w*
 \w τούτῳ|lemma="οὗτος" strong="G37780" x-morph="Gr,RD,,,,DNS,"\w*
-\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S," x-tw="rc://*/tw/dict/bible/kt/reveal"\w*
+\w ἐφανερώθη|lemma="φανερόω" strong="G53190" x-morph="Gr,V,IAP3,,S,"\w*
 \w ἡ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NFS,"\w*
 \w ἀγάπη|lemma="ἀγάπη" strong="G00260" x-morph="Gr,N,,,,,NFS," x-tw="rc://*/tw/dict/bible/kt/love"\w*
 \w τοῦ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMS,"\w*
