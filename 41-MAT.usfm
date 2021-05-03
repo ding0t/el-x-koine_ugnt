@@ -5544,7 +5544,7 @@
 \w ἔδωκεν|lemma="δίδωμι" strong="G13250" x-morph="Gr,V,IAA3,,S,"\w*
 \w αὐτοῖς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMP,"\w*
 \w ἐξουσίαν|lemma="ἐξουσία" strong="G18490" x-morph="Gr,N,,,,,AFS," x-tw="rc://*/tw/dict/bible/kt/authority"\w*
-\k-s |\w πνευμάτων| x-tw="rc://*/tw/dict/bible/kt/demon"lemma="πνεῦμα" strong="G41510" x-morph="Gr,N,,,,,GNP,"\w*
+\k-s |x-tw="rc://*/tw/dict/bible/kt/demon"\*\w πνευμάτων|lemma="πνεῦμα" strong="G41510" x-morph="Gr,N,,,,,GNP,"\w*
 \w ἀκαθάρτων|lemma="ἀκάθαρτος" strong="G01690" x-morph="Gr,AA,,,,GNP,"\w*
 \k-e\*,
 \w ὥστε|lemma="ὥστε" strong="G56200" x-morph="Gr,CS,,,,,,,,"\w*
