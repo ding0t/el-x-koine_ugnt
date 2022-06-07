@@ -8,6 +8,7 @@ resource:
      url: 'https://cdn.door43.org/en/unfoldingWord/el-x-koine_ugnt/v{latest}/pdf/el-x-koine_ugnt_v{latest}.pdf'
 
 projects:
+  -
     identifier: 'mat'
     version: '{latest}'
     media:
