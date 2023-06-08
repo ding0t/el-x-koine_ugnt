@@ -10451,12 +10451,20 @@
 \w ἀποκριθεὶς|lemma="ἀποκρίνω" strong="G06110" x-morph="Gr,V,PAP,NMS,"\w*
 \w εἶπεν|lemma="λέγω" strong="G30040" x-morph="Gr,V,IAA3,,S,"\w*
 \w αὐτοῖς|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3DMP,"\w*,
+\f + \ft Some ancient manuscripts include verses 2b–3.\f*
+[\w ὀψίας|lemma="ὄψιος" strong="G37980" x-morph="Gr,NS,,,,GFS,"\w*
+\w γενομένης|lemma="γίνομαι" strong="G10960" x-morph="Gr,V,PAM,GFS,"\w*
+\w λέγετε|lemma="λέγω" strong="G30040" x-morph="Gr,V,IPA2,,P,"\w*,
+\w εὐδία|lemma="εὐδία" strong="G21050" x-morph="Gr,N,,,,,NFS,"\w*;
+\w πυρράζει|lemma="πυρόω" strong="G44490" x-morph="Gr,V,IPA3,,S,"\w*
+\w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
+\w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
+\w οὐρανός|lemma="οὐρανός" strong="G37720" x-morph="Gr,N,,,,,NMS,"\w*.
 
 \v 3
-\f + \ft Some ancient manuscripts include verse 3.\f*
-[\w Καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
-\w πρωΐ|lemma="πρωΐ" strong="G44040" x-morph="Gr,D,,,,,,,,,"\w*
-\w Σήμερον|lemma="σήμερον" strong="G45940" x-morph="Gr,D,,,,,,,,,"\w*
+\w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
+\w πρωΐ|lemma="πρωΐ" strong="G44040" x-morph="Gr,D,,,,,,,,,"\w*,
+\w σήμερον|lemma="σήμερον" strong="G45940" x-morph="Gr,D,,,,,,,,,"\w*
 \w χειμών|lemma="χειμών" strong="G54940" x-morph="Gr,N,,,,,NMS,"\w*;
 \w πυρράζει|lemma="πυρόω" strong="G44490" x-morph="Gr,V,IPA3,,S,"\w*
 \w γὰρ|lemma="γάρ" strong="G10630" x-morph="Gr,CC,,,,,,,,"\w*
