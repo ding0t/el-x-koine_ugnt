@@ -15509,8 +15509,7 @@
 \w ἀφίετε|lemma="ἀφίημι" strong="G08630" x-morph="Gr,V,IPA2,,P,"\w*
 \w εἰσελθεῖν|lemma="εἰσέρχομαι" strong="G15250" x-morph="Gr,V,NAA,,,,,"\w*.
 
-\v 14
-[\w οὐαὶ|lemma="οὐαί" strong="G37590" x-morph="Gr,IE,,,,,,,,"\w*
+\v 14 [\w οὐαὶ|lemma="οὐαί" strong="G37590" x-morph="Gr,IE,,,,,,,,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CO,,,,,,,,"\w*
 \w ὑμῖν|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2D,P,"\w*,
 \w γραμματεῖς|lemma="γραμματεύς" strong="G11220" x-morph="Gr,N,,,,,VMP,"\w*
