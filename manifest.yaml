@@ -31,7 +31,7 @@ dublin_core:
   subject: 'Greek New Testament'
   title: 'unfoldingWord® Greek New Testament'
   type: 'bundle'
-  version: '0.31'
+  version: '0.32'
 checking:
   checking_entity:
   - 'unfoldingWord'
