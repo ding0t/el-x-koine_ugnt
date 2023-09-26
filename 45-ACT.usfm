@@ -17489,10 +17489,17 @@
 \w ὃν|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,AMS,"\w*
 \w καὶ|lemma="καί" strong="G25320" x-morph="Gr,D,,,,,,,,,"\w*
 \w ἐκρατήσαμεν|lemma="κρατέω" strong="G29020" x-morph="Gr,V,IAA1,,P,"\w*.
+\f + \ft Some ancient manuscripts include verses 6b–8a.\f*
+[\w καὶ|lemma="καί" strong="G25320" x-morph="Gr,CC,,,,,,,,"\w*
+\w κατὰ|lemma="κατά" strong="G25960" x-morph="Gr,P,,,,,A,,,"\w*
+\w τὸν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMS,"\w*
+\w ἡμέτερον|lemma="ἡμέτερος" strong="G22510" x-morph="Gr,EP,,,1AMS,"\w*
+\w νόμον|lemma="νόμος" strong="G35510" x-morph="Gr,N,,,,,AMS,"\w*
+\w ἠθελήσαμεν|lemma="θέλω" strong="G23090" x-morph="Gr,V,IAA1,,P,"\w*
+\w κρίνειν|lemma="κρίνω" strong="G29190" x-morph="Gr,V,NPA,,,,,"\w*
 
 \v 7
-\f + \ft Some ancient manuscripts include verse 7.\f*
-[\w παρελθὼν|lemma="παρέρχομαι" strong="G39280" x-morph="Gr,V,PAA,NMS,"\w*
+\w παρελθὼν|lemma="παρέρχομαι" strong="G39280" x-morph="Gr,V,PAA,NMS,"\w*
 \w δὲ|lemma="δέ" strong="G11610" x-morph="Gr,CC,,,,,,,,"\w*
 \w Λυσίας|lemma="Λυσίας" strong="G30790" x-morph="Gr,N,,,,,NMS,"\w*
 \w ὁ|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,NMS,"\w*
@@ -17504,9 +17511,16 @@
 \w τῶν|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,GMP,"\w*
 \w χειρῶν|lemma="χείρ" strong="G54950" x-morph="Gr,N,,,,,GFP,"\w*
 \w ἡμῶν|lemma="ἐγώ" strong="G14730" x-morph="Gr,RP,,,1G,P,"\w*
-\w ἀπήγαγε|lemma="ἀπάγω" strong="G05200" x-morph="Gr,V,IAA3,,S,"\w*]
+\w ἀπήγαγε|lemma="ἀπάγω" strong="G05200" x-morph="Gr,V,IAA3,,S,"\w*
 
 \v 8
+\w κελεύσας|lemma="κελεύω" strong="G27530" x-morph="Gr,V,PAA,NMS,"\w*
+\w τοὺς|lemma="ὁ" strong="G35880" x-morph="Gr,EA,,,,AMP,"\w*
+\w κατηγόρους|lemma="κατήγορος" strong="G27250" x-morph="Gr,N,,,,,AMP,"\w*
+\w αὐτοῦ|lemma="αὐτός" strong="G08460" x-morph="Gr,RP,,,3GMS,"\w*
+\w ἔρχεσθαι|lemma="ἔρχομαι" strong="G20640" x-morph="Gr,V,NPM,,,,,"\w*
+\w ἐπὶ|lemma="ἐπί" strong="G19090" x-morph="Gr,P,,,,,A,,,"\w*
+\w σε|lemma="σύ" strong="G47710" x-morph="Gr,RP,,,2A,S,"\w*.]
 \w παρ’|lemma="παρά" strong="G38440" x-morph="Gr,P,,,,,G,,,"\w*
 \w οὗ|lemma="ὅς" strong="G37390" x-morph="Gr,RR,,,,GMS,"\w*
 \w δυνήσῃ|lemma="δύναμαι" strong="G14100" x-morph="Gr,V,IFM2,,S,"\w*
