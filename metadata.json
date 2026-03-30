@@ -1,0 +1,761 @@
+{
+  "format": "scripture burrito",
+  "meta": {
+    "version": "1.0.0",
+    "category": "source",
+    "generator": {
+      "softwareName": "go-rc2sb",
+      "softwareVersion": "0.0.1",
+      "userName": ""
+    },
+    "defaultLocale": "en",
+    "dateCreated": "2026-03-30T12:47:30.158Z",
+    "normalization": "NFC"
+  },
+  "idAuthorities": {
+    "uWBurritos": {
+      "id": "https://git.door43.org/uW",
+      "name": {
+        "en": "Door43 uW Burritos"
+      }
+    }
+  },
+  "identification": {
+    "primary": {
+      "uWBurritos": {
+        "UGNT": {
+          "revision": "1",
+          "timestamp": "2026-03-30T12:47:30.158Z"
+        }
+      }
+    },
+    "name": {
+      "en": "unfoldingWord® Greek New Testament"
+    },
+    "description": {
+      "en": "unfoldingWord® Greek New Testament"
+    },
+    "abbreviation": {
+      "en": "UGNT"
+    }
+  },
+  "languages": [
+    {
+      "tag": "el-x-koine",
+      "name": {
+        "en": "Koine Greek"
+      },
+      "scriptDirection": "ltr"
+    }
+  ],
+  "type": {
+    "flavorType": {
+      "name": "scripture",
+      "flavor": {
+        "name": "textTranslation",
+        "usfmVersion": "3.0",
+        "translationType": "revision",
+        "audience": "common",
+        "projectType": "standard"
+      },
+      "currentScope": {
+        "1CO": [],
+        "1JN": [],
+        "1PE": [],
+        "1TH": [],
+        "1TI": [],
+        "2CO": [],
+        "2JN": [],
+        "2PE": [],
+        "2TH": [],
+        "2TI": [],
+        "3JN": [],
+        "ACT": [],
+        "COL": [],
+        "EPH": [],
+        "GAL": [],
+        "HEB": [],
+        "JAS": [],
+        "JHN": [],
+        "JUD": [],
+        "LUK": [],
+        "MAT": [],
+        "MRK": [],
+        "PHM": [],
+        "PHP": [],
+        "REV": [],
+        "ROM": [],
+        "TIT": []
+      }
+    }
+  },
+  "confidential": false,
+  "localizedNames": {
+    "book-1co": {
+      "abbr": {
+        "el-x-koine": "1Co",
+        "en": "1Co"
+      },
+      "short": {
+        "el-x-koine": "First Corinthians",
+        "en": "First Corinthians"
+      },
+      "long": {
+        "el-x-koine": "The First Letter of Paul to the Corinthians",
+        "en": "The First Letter of Paul to the Corinthians"
+      }
+    },
+    "book-1jn": {
+      "abbr": {
+        "el-x-koine": "1Jn",
+        "en": "1Jn"
+      },
+      "short": {
+        "el-x-koine": "First John",
+        "en": "First John"
+      },
+      "long": {
+        "el-x-koine": "The First Letter of John",
+        "en": "The First Letter of John"
+      }
+    },
+    "book-1pe": {
+      "abbr": {
+        "el-x-koine": "1Pe",
+        "en": "1Pe"
+      },
+      "short": {
+        "el-x-koine": "First Peter",
+        "en": "First Peter"
+      },
+      "long": {
+        "el-x-koine": "The First Letter of Peter",
+        "en": "The First Letter of Peter"
+      }
+    },
+    "book-1th": {
+      "abbr": {
+        "el-x-koine": "1Th",
+        "en": "1Th"
+      },
+      "short": {
+        "el-x-koine": "First Thessalonians",
+        "en": "First Thessalonians"
+      },
+      "long": {
+        "el-x-koine": "The First Letter of Paul to the Thessalonians",
+        "en": "The First Letter of Paul to the Thessalonians"
+      }
+    },
+    "book-1ti": {
+      "abbr": {
+        "el-x-koine": "1Ti",
+        "en": "1Ti"
+      },
+      "short": {
+        "el-x-koine": "First Timothy",
+        "en": "First Timothy"
+      },
+      "long": {
+        "el-x-koine": "The First Letter of Paul to Timothy",
+        "en": "The First Letter of Paul to Timothy"
+      }
+    },
+    "book-2co": {
+      "abbr": {
+        "el-x-koine": "2Co",
+        "en": "2Co"
+      },
+      "short": {
+        "el-x-koine": "Second Corinthians",
+        "en": "Second Corinthians"
+      },
+      "long": {
+        "el-x-koine": "The Second Letter of Paul to the Corinthians",
+        "en": "The Second Letter of Paul to the Corinthians"
+      }
+    },
+    "book-2jn": {
+      "abbr": {
+        "el-x-koine": "2Jn",
+        "en": "2Jn"
+      },
+      "short": {
+        "el-x-koine": "Second John",
+        "en": "Second John"
+      },
+      "long": {
+        "el-x-koine": "The Second Letter of John",
+        "en": "The Second Letter of John"
+      }
+    },
+    "book-2pe": {
+      "abbr": {
+        "el-x-koine": "2Pe",
+        "en": "2Pe"
+      },
+      "short": {
+        "el-x-koine": "Second Peter",
+        "en": "Second Peter"
+      },
+      "long": {
+        "el-x-koine": "The Second Letter of Peter",
+        "en": "The Second Letter of Peter"
+      }
+    },
+    "book-2th": {
+      "abbr": {
+        "el-x-koine": "2Th",
+        "en": "2Th"
+      },
+      "short": {
+        "el-x-koine": "Second Thessalonians",
+        "en": "Second Thessalonians"
+      },
+      "long": {
+        "el-x-koine": "The Second Letter of Paul to the Thessalonians",
+        "en": "The Second Letter of Paul to the Thessalonians"
+      }
+    },
+    "book-2ti": {
+      "abbr": {
+        "el-x-koine": "2Ti",
+        "en": "2Ti"
+      },
+      "short": {
+        "el-x-koine": "Second Timothy",
+        "en": "Second Timothy"
+      },
+      "long": {
+        "el-x-koine": "The Second Letter of Paul to Timothy",
+        "en": "The Second Letter of Paul to Timothy"
+      }
+    },
+    "book-3jn": {
+      "abbr": {
+        "el-x-koine": "3Jn",
+        "en": "3Jn"
+      },
+      "short": {
+        "el-x-koine": "Third John",
+        "en": "Third John"
+      },
+      "long": {
+        "el-x-koine": "The Third Letter of John",
+        "en": "The Third Letter of John"
+      }
+    },
+    "book-act": {
+      "abbr": {
+        "el-x-koine": "Act",
+        "en": "Act"
+      },
+      "short": {
+        "el-x-koine": "Acts",
+        "en": "Acts"
+      },
+      "long": {
+        "el-x-koine": "The Acts of the Apostles",
+        "en": "The Acts of the Apostles"
+      }
+    },
+    "book-col": {
+      "abbr": {
+        "el-x-koine": "Col",
+        "en": "Col"
+      },
+      "short": {
+        "el-x-koine": "Colossians",
+        "en": "Colossians"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Paul to the Colossians",
+        "en": "The Letter of Paul to the Colossians"
+      }
+    },
+    "book-eph": {
+      "abbr": {
+        "el-x-koine": "Eph",
+        "en": "Eph"
+      },
+      "short": {
+        "el-x-koine": "Ephesians",
+        "en": "Ephesians"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Paul to the Ephesians",
+        "en": "The Letter of Paul to the Ephesians"
+      }
+    },
+    "book-gal": {
+      "abbr": {
+        "el-x-koine": "Gal",
+        "en": "Gal"
+      },
+      "short": {
+        "el-x-koine": "Galatians",
+        "en": "Galatians"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Paul to the Galatians",
+        "en": "The Letter of Paul to the Galatians"
+      }
+    },
+    "book-heb": {
+      "abbr": {
+        "el-x-koine": "Heb",
+        "en": "Heb"
+      },
+      "short": {
+        "el-x-koine": "Hebrews",
+        "en": "Hebrews"
+      },
+      "long": {
+        "el-x-koine": "The Letter to the Hebrews",
+        "en": "The Letter to the Hebrews"
+      }
+    },
+    "book-jas": {
+      "abbr": {
+        "el-x-koine": "Jas",
+        "en": "Jas"
+      },
+      "short": {
+        "el-x-koine": "James",
+        "en": "James"
+      },
+      "long": {
+        "el-x-koine": "The Letter of James",
+        "en": "The Letter of James"
+      }
+    },
+    "book-jhn": {
+      "abbr": {
+        "el-x-koine": "Jhn",
+        "en": "Jhn"
+      },
+      "short": {
+        "el-x-koine": "John",
+        "en": "John"
+      },
+      "long": {
+        "el-x-koine": "The Gospel of John",
+        "en": "The Gospel of John"
+      }
+    },
+    "book-jud": {
+      "abbr": {
+        "el-x-koine": "Jud",
+        "en": "Jud"
+      },
+      "short": {
+        "el-x-koine": "Jude",
+        "en": "Jude"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Jude",
+        "en": "The Letter of Jude"
+      }
+    },
+    "book-luk": {
+      "abbr": {
+        "el-x-koine": "Luk",
+        "en": "Luk"
+      },
+      "short": {
+        "el-x-koine": "Luke",
+        "en": "Luke"
+      },
+      "long": {
+        "el-x-koine": "The Gospel of Luke",
+        "en": "The Gospel of Luke"
+      }
+    },
+    "book-mat": {
+      "abbr": {
+        "el-x-koine": "Mat",
+        "en": "Mat"
+      },
+      "short": {
+        "el-x-koine": "Matthew",
+        "en": "Matthew"
+      },
+      "long": {
+        "el-x-koine": "The Gospel of Matthew",
+        "en": "The Gospel of Matthew"
+      }
+    },
+    "book-mrk": {
+      "abbr": {
+        "el-x-koine": "Mrk",
+        "en": "Mrk"
+      },
+      "short": {
+        "el-x-koine": "Mark",
+        "en": "Mark"
+      },
+      "long": {
+        "el-x-koine": "The Gospel of Mark",
+        "en": "The Gospel of Mark"
+      }
+    },
+    "book-phm": {
+      "abbr": {
+        "el-x-koine": "Phm",
+        "en": "Phm"
+      },
+      "short": {
+        "el-x-koine": "Philemon",
+        "en": "Philemon"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Paul to Philemon",
+        "en": "The Letter of Paul to Philemon"
+      }
+    },
+    "book-php": {
+      "abbr": {
+        "el-x-koine": "Php",
+        "en": "Php"
+      },
+      "short": {
+        "el-x-koine": "Philippians",
+        "en": "Philippians"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Paul to the Philippians",
+        "en": "The Letter of Paul to the Philippians"
+      }
+    },
+    "book-rev": {
+      "abbr": {
+        "el-x-koine": "Rev",
+        "en": "Rev"
+      },
+      "short": {
+        "el-x-koine": "Revelation",
+        "en": "Revelation"
+      },
+      "long": {
+        "el-x-koine": "The Book of Revelation",
+        "en": "The Book of Revelation"
+      }
+    },
+    "book-rom": {
+      "abbr": {
+        "el-x-koine": "Rom",
+        "en": "Rom"
+      },
+      "short": {
+        "el-x-koine": "Romans",
+        "en": "Romans"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Paul to the Romans",
+        "en": "The Letter of Paul to the Romans"
+      }
+    },
+    "book-tit": {
+      "abbr": {
+        "el-x-koine": "Tit",
+        "en": "Tit"
+      },
+      "short": {
+        "el-x-koine": "Titus",
+        "en": "Titus"
+      },
+      "long": {
+        "el-x-koine": "The Letter of Paul to Titus",
+        "en": "The Letter of Paul to Titus"
+      }
+    }
+  },
+  "ingredients": {
+    "ingredients/1CO.usfm": {
+      "checksum": {
+        "md5": "65de587d3b2591a6e1165fd717315a22"
+      },
+      "mimeType": "text/plain",
+      "size": 520415,
+      "scope": {
+        "1CO": []
+      }
+    },
+    "ingredients/1JN.usfm": {
+      "checksum": {
+        "md5": "2fa14266125535813fefd0dd04e3371b"
+      },
+      "mimeType": "text/plain",
+      "size": 160029,
+      "scope": {
+        "1JN": []
+      }
+    },
+    "ingredients/1PE.usfm": {
+      "checksum": {
+        "md5": "99b4812b9868d862991af0b4d3df3eba"
+      },
+      "mimeType": "text/plain",
+      "size": 131239,
+      "scope": {
+        "1PE": []
+      }
+    },
+    "ingredients/1TH.usfm": {
+      "checksum": {
+        "md5": "c045991e57339a73142e32853f98a3cf"
+      },
+      "mimeType": "text/plain",
+      "size": 113584,
+      "scope": {
+        "1TH": []
+      }
+    },
+    "ingredients/1TI.usfm": {
+      "checksum": {
+        "md5": "bb647eef90ddda621abcf544bc4ca010"
+      },
+      "mimeType": "text/plain",
+      "size": 126234,
+      "scope": {
+        "1TI": []
+      }
+    },
+    "ingredients/2CO.usfm": {
+      "checksum": {
+        "md5": "2c4f0954e771b96134672604e37113e1"
+      },
+      "mimeType": "text/plain",
+      "size": 343551,
+      "scope": {
+        "2CO": []
+      }
+    },
+    "ingredients/2JN.usfm": {
+      "checksum": {
+        "md5": "b9d15e2ed5d0f5bf844455c433f0a828"
+      },
+      "mimeType": "text/plain",
+      "size": 18664,
+      "scope": {
+        "2JN": []
+      }
+    },
+    "ingredients/2PE.usfm": {
+      "checksum": {
+        "md5": "6784fd311b32d5e7813b51aa58cf687d"
+      },
+      "mimeType": "text/plain",
+      "size": 86566,
+      "scope": {
+        "2PE": []
+      }
+    },
+    "ingredients/2TH.usfm": {
+      "checksum": {
+        "md5": "d24a97f437ad8869c7583d1c6e2c0724"
+      },
+      "mimeType": "text/plain",
+      "size": 62993,
+      "scope": {
+        "2TH": []
+      }
+    },
+    "ingredients/2TI.usfm": {
+      "checksum": {
+        "md5": "9428eafea8f888f7df5ddeca3b4ac8e6"
+      },
+      "mimeType": "text/plain",
+      "size": 96772,
+      "scope": {
+        "2TI": []
+      }
+    },
+    "ingredients/3JN.usfm": {
+      "checksum": {
+        "md5": "a58884738c4ca4567e133087cc1c17d7"
+      },
+      "mimeType": "text/plain",
+      "size": 17126,
+      "scope": {
+        "3JN": []
+      }
+    },
+    "ingredients/ACT.usfm": {
+      "checksum": {
+        "md5": "846293cfb4ffaed286d9bab349639742"
+      },
+      "mimeType": "text/plain",
+      "size": 1432511,
+      "scope": {
+        "ACT": []
+      }
+    },
+    "ingredients/COL.usfm": {
+      "checksum": {
+        "md5": "eafe1d8002ade34bf02a8ec28fb4b1e1"
+      },
+      "mimeType": "text/plain",
+      "size": 121295,
+      "scope": {
+        "COL": []
+      }
+    },
+    "ingredients/EPH.usfm": {
+      "checksum": {
+        "md5": "d28970f47b0694f06a7fc9d33b1d8835"
+      },
+      "mimeType": "text/plain",
+      "size": 185180,
+      "scope": {
+        "EPH": []
+      }
+    },
+    "ingredients/GAL.usfm": {
+      "checksum": {
+        "md5": "c3e0ff149aa35a5802afc178d990dd5e"
+      },
+      "mimeType": "text/plain",
+      "size": 171564,
+      "scope": {
+        "GAL": []
+      }
+    },
+    "ingredients/HEB.usfm": {
+      "checksum": {
+        "md5": "875e0482a600ead6d5eab5cc2e247a16"
+      },
+      "mimeType": "text/plain",
+      "size": 385362,
+      "scope": {
+        "HEB": []
+      }
+    },
+    "ingredients/JAS.usfm": {
+      "checksum": {
+        "md5": "046dedfbfa03cf00ee5024d9aa203f73"
+      },
+      "mimeType": "text/plain",
+      "size": 134549,
+      "scope": {
+        "JAS": []
+      }
+    },
+    "ingredients/JHN.usfm": {
+      "checksum": {
+        "md5": "8cc5beea39bb6efe3a3f96386e898037"
+      },
+      "mimeType": "text/plain",
+      "size": 1182110,
+      "scope": {
+        "JHN": []
+      }
+    },
+    "ingredients/JUD.usfm": {
+      "checksum": {
+        "md5": "05a288b511a76c06a991dea5bca0797e"
+      },
+      "mimeType": "text/plain",
+      "size": 36191,
+      "scope": {
+        "JUD": []
+      }
+    },
+    "ingredients/LICENSE.md": {
+      "checksum": {
+        "md5": "08ce41ee7842c66512ce166c15e5a590"
+      },
+      "mimeType": "text/markdown",
+      "size": 1609
+    },
+    "ingredients/LUK.usfm": {
+      "checksum": {
+        "md5": "3dcdec506a7ba1b5fdcee9a8fffca72c"
+      },
+      "mimeType": "text/plain",
+      "size": 1492955,
+      "scope": {
+        "LUK": []
+      }
+    },
+    "ingredients/MAT.usfm": {
+      "checksum": {
+        "md5": "580c4579735b77fe11368693e995628f"
+      },
+      "mimeType": "text/plain",
+      "size": 1409269,
+      "scope": {
+        "MAT": []
+      }
+    },
+    "ingredients/MRK.usfm": {
+      "checksum": {
+        "md5": "161bf9d776aac0852ad081e6598c3dea"
+      },
+      "mimeType": "text/plain",
+      "size": 873223,
+      "scope": {
+        "MRK": []
+      }
+    },
+    "ingredients/PHM.usfm": {
+      "checksum": {
+        "md5": "300c3746c14e9ed163517cda6fab4871"
+      },
+      "mimeType": "text/plain",
+      "size": 25925,
+      "scope": {
+        "PHM": []
+      }
+    },
+    "ingredients/PHP.usfm": {
+      "checksum": {
+        "md5": "78236c4b3046995343508ac139187fc0"
+      },
+      "mimeType": "text/plain",
+      "size": 125095,
+      "scope": {
+        "PHP": []
+      }
+    },
+    "ingredients/REV.usfm": {
+      "checksum": {
+        "md5": "fe425b8332b0136d1770bafc73ee9ab6"
+      },
+      "mimeType": "text/plain",
+      "size": 741549,
+      "scope": {
+        "REV": []
+      }
+    },
+    "ingredients/ROM.usfm": {
+      "checksum": {
+        "md5": "1e8e57952cb5954793c687ed20df912c"
+      },
+      "mimeType": "text/plain",
+      "size": 543926,
+      "scope": {
+        "ROM": []
+      }
+    },
+    "ingredients/TIT.usfm": {
+      "checksum": {
+        "md5": "77d757f6dca6d7b348357ca302734a07"
+      },
+      "mimeType": "text/plain",
+      "size": 52551,
+      "scope": {
+        "TIT": []
+      }
+    }
+  },
+  "copyright": {
+    "shortStatements": [
+      {
+        "statement": "© unfoldingWord 2023, CC BY-SA 4.0",
+        "mimetype": "text/plain",
+        "lang": "en"
+      }
+    ]
+  }
+}
